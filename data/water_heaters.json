@@ -1,0 +1,462 @@
+[
+  {
+    "_id": "wt001",
+    "name": "Bajaj New Shakti 15 L Storage Water Heater",
+    "brand": "Bajaj",
+    "category": "Water Heater",
+    "price": 6999,
+    "rating": 4.3,
+    "reviews": [
+      "Heats water quickly and holds temperature well.",
+      "Good capacity for 3-4 people."
+    ],
+    "description": "A 15-litre storage water heater with high heating efficiency.",
+    "specifications": {
+      "capacity": "15 L",
+      "power": "2000 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "3 Star"
+    },
+    "stock": 20,
+    "location": "Chennai Warehouse",
+    "tags": ["storage", "budget", "family"]
+  },
+  {
+    "_id": "wt002",
+    "name": "Crompton Amica 6 L Instant Water Heater",
+    "brand": "Crompton",
+    "category": "Water Heater",
+    "price": 3499,
+    "rating": 4.0,
+    "reviews": [
+      "Heats up fast for single use.",
+      "Small size makes it good for compact bathrooms."
+    ],
+    "description": "A 6-litre instant water heater ideal for quick usage and small households.",
+    "specifications": {
+      "capacity": "6 L",
+      "power": "3000 W",
+      "type": "Instant",
+      "tank_material": "ABS Plastic",
+      "energy_rating": "2 Star"
+    },
+    "stock": 15,
+    "location": "Mumbai Warehouse",
+    "tags": ["instant", "compact", "fast-heating"]
+  },
+  {
+    "_id": "wt003",
+    "name": "AO Smith HSE-SDS 25 L Storage Water Heater",
+    "brand": "AO Smith",
+    "category": "Water Heater",
+    "price": 12999,
+    "rating": 4.5,
+    "reviews": [
+      "Very robust design and durable tank.",
+      "Excellent heating and good insulation."
+    ],
+    "description": "A high-quality 25-litre glass-lined storage water heater built for consistent hot water supply.",
+    "specifications": {
+      "capacity": "25 L",
+      "power": "2000 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "4 Star"
+    },
+    "stock": 10,
+    "location": "Delhi Warehouse",
+    "tags": ["premium", "large-capacity", "durable"]
+  },
+  {
+    "_id": "wt004",
+    "name": "Havells Instanio Neo 3 L Instant Water Heater",
+    "brand": "Havells",
+    "category": "Water Heater",
+    "price": 5499,
+    "rating": 4.2,
+    "reviews": [
+      "Compact and stylish.",
+      "Good for wash basin usage."
+    ],
+    "description": "A 3-litre instant geyser with sleek design and fast heating.",
+    "specifications": {
+      "capacity": "3 L",
+      "power": "3000 W",
+      "type": "Instant",
+      "tank_material": "ABS + Heating Element",
+      "energy_rating": "3 Star"
+    },
+    "stock": 12,
+    "location": "Bangalore Warehouse",
+    "tags": ["instant", "compact", "stylish"]
+  },
+  {
+    "_id": "wt005",
+    "name": "Racold Pronto Neo 10 L Storage Water Heater",
+    "brand": "Racold",
+    "category": "Water Heater",
+    "price": 8499,
+    "rating": 4.4,
+    "reviews": [
+      "Good capacity for smaller families.",
+      "Water stays hot for long."
+    ],
+    "description": "A reliable 10-litre storage water heater with anti-corrosive tank.",
+    "specifications": {
+      "capacity": "10 L",
+      "power": "2000 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "3 Star"
+    },
+    "stock": 14,
+    "location": "Pune Warehouse",
+    "tags": ["storage", "anti-corrosive", "compact"]
+  },
+  {
+    "_id": "wt006",
+    "name": "Bajaj Caldo 25 L Storage Geyser",
+    "brand": "Bajaj",
+    "category": "Water Heater",
+    "price": 11999,
+    "rating": 4.3,
+    "reviews": [
+      "Great for large families.",
+      "Tank holds very well and heats evenly."
+    ],
+    "description": "A 25-litre high-capacity storage water heater ideal for frequent use.",
+    "specifications": {
+      "capacity": "25 L",
+      "power": "2500 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "4 Star"
+    },
+    "stock": 8,
+    "location": "Hyderabad Warehouse",
+    "tags": ["high-capacity", "frequent-use", "durable"]
+  },
+  {
+    "_id": "wt007",
+    "name": "Crompton Instashower 3.3kW Instant Heater",
+    "brand": "Crompton",
+    "category": "Water Heater",
+    "price": 6299,
+    "rating": 4.4,
+    "reviews": [
+      "Very powerful and heats instantly.",
+      "Good safety features."
+    ],
+    "description": "A 3300W instant water heater for powerful and fast hot water flow.",
+    "specifications": {
+      "capacity": "Instant (No Tank)",
+      "power": "3300 W",
+      "type": "Instant",
+      "tank_material": "N/A",
+      "energy_rating": "Not Rated"
+    },
+    "stock": 11,
+    "location": "Delhi Warehouse",
+    "tags": ["instant", "powerful", "safety"]
+  },
+  {
+    "_id": "wt008",
+    "name": "Havells Monza 15 L Vertical Storage Geyser",
+    "brand": "Havells",
+    "category": "Water Heater",
+    "price": 7999,
+    "rating": 4.1,
+    "reviews": [
+      "Vertical design saves wall space.",
+      "Heats water fast and retains heat very well."
+    ],
+    "description": "A 15-litre vertical storage water heater with efficient heating and compact design.",
+    "specifications": {
+      "capacity": "15 L",
+      "power": "2000 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "3 Star"
+    },
+    "stock": 13,
+    "location": "Chennai Warehouse",
+    "tags": ["vertical", "storage", "space-saving"]
+  },
+  {
+    "_id": "wt009",
+    "name": "Racold Turbo 10 L Instant Water Heater",
+    "brand": "Racold",
+    "category": "Water Heater",
+    "price": 6999,
+    "rating": 4.2,
+    "reviews": [
+      "Instant delivery is pretty reliable.",
+      "Good for wash basin or quick showers."
+    ],
+    "description": "A 10-litre instant water heater with turbo heating and safety cut-off.",
+    "specifications": {
+      "capacity": "10 L",
+      "power": "3000 W",
+      "type": "Instant",
+      "tank_material": "ABS + Heating Coil",
+      "energy_rating": "2 Star"
+    },
+    "stock": 16,
+    "location": "Mumbai Warehouse",
+    "tags": ["instant", "turbo", "fast-heating"]
+  },
+  {
+    "_id": "wt010",
+    "name": "AO Smith HSE-SJS 10 L Storage Water Heater",
+    "brand": "AO Smith",
+    "category": "Water Heater",
+    "price": 10999,
+    "rating": 4.5,
+    "reviews": [
+      "Efficient heating and very safe.",
+      "Good brand trust and quality."
+    ],
+    "description": "A compact 10-litre storage water heater from AO Smith with glass-lined tank.",
+    "specifications": {
+      "capacity": "10 L",
+      "power": "2000 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "3 Star"
+    },
+    "stock": 12,
+    "location": "Bangalore Warehouse",
+    "tags": ["quality", "storage", "trustworthy-brand"]
+  },
+  {
+    "_id": "wt011",
+    "name": "Bajaj Flora 3 L Instant Water Heater",
+    "brand": "Bajaj",
+    "category": "Water Heater",
+    "price": 3999,
+    "rating": 4.0,
+    "reviews": [
+      "Perfect for quick hand wash.",
+      "Compact and easy to install."
+    ],
+    "description": "A 3-litre instant water heater ideal for wash basins and quick usage.",
+    "specifications": {
+      "capacity": "3 L",
+      "power": "3000 W",
+      "type": "Instant",
+      "tank_material": "ABS Plastic",
+      "energy_rating": "2 Star"
+    },
+    "stock": 18,
+    "location": "Pune Warehouse",
+    "tags": ["instant", "compact", "wash-basin"]
+  },
+  {
+    "_id": "wt012",
+    "name": "Crompton Amica 15 L Storage Water Heater",
+    "brand": "Crompton",
+    "category": "Water Heater",
+    "price": 8999,
+    "rating": 4.3,
+    "reviews": [
+      "Reliable performance and good heating.",
+      "Suitable for small families."
+    ],
+    "description": "A 15-litre storage water heater with efficient heating and durable tank.",
+    "specifications": {
+      "capacity": "15 L",
+      "power": "2000 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "3 Star"
+    },
+    "stock": 14,
+    "location": "Hyderabad Warehouse",
+    "tags": ["storage", "family", "efficient"]
+  },
+  {
+    "_id": "wt013",
+    "name": "Havells Instanio 6 L Instant Water Heater",
+    "brand": "Havells",
+    "category": "Water Heater",
+    "price": 4999,
+    "rating": 4.1,
+    "reviews": [
+      "Heats water quickly for small needs.",
+      "Compact design fits well in small spaces."
+    ],
+    "description": "A 6-litre instant water heater with fast heating and sleek design.",
+    "specifications": {
+      "capacity": "6 L",
+      "power": "3000 W",
+      "type": "Instant",
+      "tank_material": "ABS + Heating Element",
+      "energy_rating": "3 Star"
+    },
+    "stock": 17,
+    "location": "Chennai Warehouse",
+    "tags": ["instant", "compact", "fast-heating"]
+  },
+  {
+    "_id": "wt014",
+    "name": "Racold Pronto 25 L Storage Water Heater",
+    "brand": "Racold",
+    "category": "Water Heater",
+    "price": 13999,
+    "rating": 4.4,
+    "reviews": [
+      "Large capacity and efficient heating.",
+      "Good insulation keeps water hot for hours."
+    ],
+    "description": "A 25-litre storage water heater with anti-corrosive tank and energy-efficient design.",
+    "specifications": {
+      "capacity": "25 L",
+      "power": "2000 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "4 Star"
+    },
+    "stock": 9,
+    "location": "Mumbai Warehouse",
+    "tags": ["large-capacity", "energy-efficient", "durable"]
+  },
+  {
+    "_id": "wt015",
+    "name": "AO Smith HSE-VAS 6 L Instant Water Heater",
+    "brand": "AO Smith",
+    "category": "Water Heater",
+    "price": 5999,
+    "rating": 4.2,
+    "reviews": [
+      "Compact and powerful for instant hot water.",
+      "Good safety features included."
+    ],
+    "description": "A 6-litre instant water heater from AO Smith with advanced safety features and quick heating.",
+    "specifications": {
+      "capacity": "6 L",
+      "power": "3000 W",
+      "type": "Instant",
+      "tank_material": "ABS + Heating Coil",
+      "energy_rating": "3 Star"
+    },
+    "stock": 15,
+    "location": "Delhi Warehouse",
+    "tags": ["instant", "safety", "compact"]
+  },
+  {
+    "_id": "wt016",
+    "name": "Havells Monza 10 L Vertical Storage Geyser",
+    "brand": "Havells",
+    "category": "Water Heater",
+    "price": 7499,
+    "rating": 4.2,
+    "reviews": [
+      "Space-saving vertical design is great.",
+      "Heats water efficiently and retains heat well."
+    ],
+    "description": "A 10-litre vertical storage water heater with efficient heating and compact design.",
+    "specifications": {
+      "capacity": "10 L",
+      "power": "2000 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "3 Star"
+    },
+    "stock": 16,
+    "location": "Bangalore Warehouse",
+    "tags": ["vertical", "storage", "space-saving"]
+  },
+  {
+    "_id": "wt017",
+    "name": "Racold Turbo 15 L Instant Water Heater",
+    "brand": "Racold",
+    "category": "Water Heater",
+    "price": 7999,
+    "rating": 4.3,
+    "reviews": [
+      "Instant hot water with good flow rate.",
+      "Ideal for quick showers."
+    ],
+    "description": "A 15-litre instant water heater with turbo heating technology for fast hot water supply.",
+    "specifications": {
+      "capacity": "15 L",
+      "power": "3000 W",
+      "type": "Instant",
+      "tank_material": "ABS + Heating Coil",
+      "energy_rating": "2 Star"
+    },
+    "stock": 13,
+    "location": "Pune Warehouse",
+    "tags": ["instant", "turbo", "fast-heating"]
+  },
+  {
+    "_id": "wt018",
+    "name": "Bajaj New Shakti 10 L Storage Water Heater",
+    "brand": "Bajaj",
+    "category": "Water Heater",
+    "price": 5999,
+    "rating": 4.2,
+    "reviews": [
+      "Perfect size for small families.",
+      "Heats water quickly and retains heat well."
+    ],
+    "description": "A 10-litre storage water heater with high heating efficiency and durable tank.",
+    "specifications": {
+      "capacity": "10 L",
+      "power": "2000 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "3 Star"
+    },
+    "stock": 19,
+    "location": "Hyderabad Warehouse",
+    "tags": ["storage", "budget", "small-family"]
+  },
+  {
+    "_id": "wt019",
+    "name": "Crompton Amica 25 L Storage Water Heater",
+    "brand": "Crompton",
+    "category": "Water Heater",
+    "price": 11999,
+    "rating": 4.4,
+    "reviews": [
+      "Large capacity and efficient heating.",
+      "Good for big families."
+    ],
+    "description": "A 25-litre storage water heater with efficient heating and durable tank.",
+    "specifications": {
+      "capacity": "25 L",
+      "power": "2000 W",
+      "type": "Storage",
+      "tank_material": "Glass-lined",
+      "energy_rating": "4 Star"
+    },
+    "stock": 10,
+    "location": "Chennai Warehouse",
+    "tags": ["storage", "large-family", "efficient"]
+  },
+  {
+    "_id": "wt020",
+    "name": "Havells Instanio Neo 10 L Instant Water Heater",
+    "brand": "Havells",
+    "category": "Water Heater",
+    "price": 6499,
+    "rating": 4.3,
+    "reviews": [
+      "Heats water quickly for small needs.",
+      "Compact design fits well in small spaces."
+    ],
+    "description": "A 10-litre instant water heater with fast heating and sleek design.",
+    "specifications": {
+      "capacity": "10 L",
+      "power": "3000 W",
+      "type": "Instant",
+      "tank_material": "ABS + Heating Element",
+      "energy_rating": "3 Star"
+    },
+    "stock": 14,
+    "location": "Mumbai Warehouse",
+    "tags": ["instant", "compact", "fast-heating"]
+  }
+]

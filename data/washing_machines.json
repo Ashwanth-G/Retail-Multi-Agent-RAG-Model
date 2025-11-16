@@ -1,0 +1,462 @@
+[
+  {
+    "_id": "wm001",
+    "name": "Whirlpool 7 Kg Fully Automatic Top Load Washing Machine",
+    "brand": "Whirlpool",
+    "category": "Washing Machine",
+    "price": 16499,
+    "rating": 4.3,
+    "reviews": [
+      "Washes clothes well and is very easy to operate.",
+      "Low noise and smooth performance."
+    ],
+    "description": "A 7 Kg fully automatic top-load machine designed for efficient everyday washing.",
+    "specifications": {
+      "capacity": "7 Kg",
+      "type": "Fully Automatic",
+      "loading_type": "Top Load",
+      "rpm": "740 RPM",
+      "technology": "6th Sense Smart Sensors"
+    },
+    "stock": 18,
+    "location": "Chennai Warehouse",
+    "tags": ["top-load", "fully-automatic", "energy-efficient"]
+  },
+  {
+    "_id": "wm002",
+    "name": "LG 8 Kg Front Load Washing Machine with Steam",
+    "brand": "LG",
+    "category": "Washing Machine",
+    "price": 36999,
+    "rating": 4.6,
+    "reviews": [
+      "Steam wash helps remove tough stains easily.",
+      "Runs very silently, great for apartments."
+    ],
+    "description": "An 8 Kg front-load washing machine with steam cleaning and smart inverter technology.",
+    "specifications": {
+      "capacity": "8 Kg",
+      "type": "Fully Automatic",
+      "loading_type": "Front Load",
+      "rpm": "1200 RPM",
+      "technology": "Steam Wash"
+    },
+    "stock": 10,
+    "location": "Bangalore Warehouse",
+    "tags": ["front-load", "steam", "premium"]
+  },
+  {
+    "_id": "wm003",
+    "name": "Samsung 6.5 Kg EcoBubble Top Load Washing Machine",
+    "brand": "Samsung",
+    "category": "Washing Machine",
+    "price": 19999,
+    "rating": 4.4,
+    "reviews": [
+      "EcoBubble mode cleans clothes very efficiently.",
+      "Good build quality."
+    ],
+    "description": "A 6.5 Kg top-load machine with EcoBubble technology for enhanced detergent action.",
+    "specifications": {
+      "capacity": "6.5 Kg",
+      "type": "Fully Automatic",
+      "loading_type": "Top Load",
+      "rpm": "680 RPM",
+      "technology": "EcoBubble"
+    },
+    "stock": 16,
+    "location": "Mumbai Warehouse",
+    "tags": ["top-load", "ecobubble", "energy-efficient"]
+  },
+  {
+    "_id": "wm004",
+    "name": "Bosch 7 Kg Front Load Washing Machine",
+    "brand": "Bosch",
+    "category": "Washing Machine",
+    "price": 33999,
+    "rating": 4.7,
+    "reviews": [
+      "Very gentle on clothes.",
+      "Water usage is very efficient."
+    ],
+    "description": "A reliable 7 Kg front-load washer with excellent wash quality and low vibration.",
+    "specifications": {
+      "capacity": "7 Kg",
+      "type": "Fully Automatic",
+      "loading_type": "Front Load",
+      "rpm": "1200 RPM",
+      "technology": "EcoSilence Drive"
+    },
+    "stock": 8,
+    "location": "Hyderabad Warehouse",
+    "tags": ["front-load", "premium", "low-noise"]
+  },
+  {
+    "_id": "wm005",
+    "name": "IFB 6 Kg Front Load Washing Machine",
+    "brand": "IFB",
+    "category": "Washing Machine",
+    "price": 25999,
+    "rating": 4.5,
+    "reviews": [
+      "Excellent wash programs.",
+      "Front load at this price is a steal."
+    ],
+    "description": "A compact 6 Kg IFB front-load washer with multiple wash modes and efficient cleaning.",
+    "specifications": {
+      "capacity": "6 Kg",
+      "type": "Fully Automatic",
+      "loading_type": "Front Load",
+      "rpm": "1000 RPM",
+      "technology": "Aqua Energie"
+    },
+    "stock": 14,
+    "location": "Delhi Warehouse",
+    "tags": ["front-load", "budget-premium"]
+  },
+  {
+    "_id": "wm006",
+    "name": "Godrej 7.5 Kg Semi Automatic Washing Machine",
+    "brand": "Godrej",
+    "category": "Washing Machine",
+    "price": 11999,
+    "rating": 4.2,
+    "reviews": [
+      "Good for families looking for affordability.",
+      "Dryer works decently."
+    ],
+    "description": "A durable semi-automatic washing machine ideal for budget-conscious households.",
+    "specifications": {
+      "capacity": "7.5 Kg",
+      "type": "Semi Automatic",
+      "loading_type": "Top Load",
+      "rpm": "700 RPM",
+      "technology": "Toughened Glass Lid"
+    },
+    "stock": 22,
+    "location": "Chennai Warehouse",
+    "tags": ["semi-automatic", "budget"]
+  },
+  {
+    "_id": "wm007",
+    "name": "Panasonic 8 Kg Fully Automatic Top Load Washer",
+    "brand": "Panasonic",
+    "category": "Washing Machine",
+    "price": 21499,
+    "rating": 4.3,
+    "reviews": [
+      "Quick wash mode is very helpful.",
+      "Good value for the features offered."
+    ],
+    "description": "An 8 Kg fully automatic top-load washer with a powerful motor and smart wash programs.",
+    "specifications": {
+      "capacity": "8 Kg",
+      "type": "Fully Automatic",
+      "loading_type": "Top Load",
+      "rpm": "720 RPM",
+      "technology": "AquaBeat"
+    },
+    "stock": 13,
+    "location": "Pune Warehouse",
+    "tags": ["top-load", "fully-automatic"]
+  },
+  {
+    "_id": "wm008",
+    "name": "Haier 6.2 Kg Fully Automatic Top Load Washing Machine",
+    "brand": "Haier",
+    "category": "Washing Machine",
+    "price": 15999,
+    "rating": 4.2,
+    "reviews": [
+      "Compact and works great.",
+      "Display panel is very easy to understand."
+    ],
+    "description": "A compact and efficient 6.2 Kg top-load washing machine designed for bachelors and small families.",
+    "specifications": {
+      "capacity": "6.2 Kg",
+      "type": "Fully Automatic",
+      "loading_type": "Top Load",
+      "rpm": "700 RPM",
+      "technology": "Oceanus Wave"
+    },
+    "stock": 20,
+    "location": "Mumbai Warehouse",
+    "tags": ["top-load", "compact"]
+  },
+  {
+    "_id": "wm009",
+    "name": "Onida 7 Kg Semi Automatic Washer",
+    "brand": "Onida",
+    "category": "Washing Machine",
+    "price": 10499,
+    "rating": 4.1,
+    "reviews": [
+      "Very durable and strong body.",
+      "Washing performance is good for the price."
+    ],
+    "description": "A robust semi-automatic 7 Kg washing machine suitable for heavy usage.",
+    "specifications": {
+      "capacity": "7 Kg",
+      "type": "Semi Automatic",
+      "loading_type": "Top Load",
+      "rpm": "800 RPM",
+      "technology": "PowerMax Wash"
+    },
+    "stock": 26,
+    "location": "Hyderabad Warehouse",
+    "tags": ["semi-automatic", "durable"]
+  },
+  {
+    "_id": "wm010",
+    "name": "Samsung 9 Kg Front Load Washer with AI Control",
+    "brand": "Samsung",
+    "category": "Washing Machine",
+    "price": 49999,
+    "rating": 4.8,
+    "reviews": [
+      "AI wash mode is very accurate.",
+      "Premium machine with excellent performance."
+    ],
+    "description": "A high-end 9 Kg front-load washer featuring AI wash optimization and powerful cleaning.",
+    "specifications": {
+      "capacity": "9 Kg",
+      "type": "Fully Automatic",
+      "loading_type": "Front Load",
+      "rpm": "1400 RPM",
+      "technology": "AI Control"
+    },
+    "stock": 5,
+    "location": "Bangalore Warehouse",
+    "tags": ["front-load", "ai-powered", "premium"]
+  },
+  {
+    "_id": "wm011",
+    "name": "LG 6kg Front Load Fully Automatic Washing Machine",
+    "brand": "LG",
+    "category": "Washing Machine",
+    "price": 21490,
+    "rating": 4.4,
+    "reviews": [
+      "Very silent and smooth operation.",
+      "Wash quality is excellent but cycles are slightly long."
+    ],
+    "description": "A compact fully automatic front-load machine suitable for small families.",
+    "specifications": {
+      "capacity": "6 kg",
+      "type": "Front Load",
+      "motor": "Inverter Direct Drive",
+      "rpm": "1200",
+      "color": "White"
+    },
+    "stock": 14,
+    "location": "Chennai Warehouse",
+    "tags": ["front-load", "energy-efficient", "inverter"]
+  },
+  {
+    "_id": "wm012",
+    "name": "Samsung 7kg Top Load EcoBubble Washing Machine",
+    "brand": "Samsung",
+    "category": "Washing Machine",
+    "price": 18999,
+    "rating": 4.5,
+    "reviews": [
+      "EcoBubble mode works very well.",
+      "Top lid feels premium and durable."
+    ],
+    "description": "Top-load automatic machine with EcoBubble technology for deep cleaning.",
+    "specifications": {
+      "capacity": "7 kg",
+      "type": "Top Load",
+      "motor": "Digital Inverter",
+      "rpm": "700",
+      "color": "Grey"
+    },
+    "stock": 20,
+    "location": "Mumbai Warehouse",
+    "tags": ["top-load", "ecobubble", "digital-inverter"]
+  },
+  {
+    "_id": "wm013",
+    "name": "Bosch 8kg Front Load Fully Automatic Washer",
+    "brand": "Bosch",
+    "category": "Washing Machine",
+    "price": 32999,
+    "rating": 4.6,
+    "reviews": [
+      "Superb performance, extremely quiet.",
+      "Build quality is top-notch."
+    ],
+    "description": "A heavy-duty German-engineered front-load washing machine.",
+    "specifications": {
+      "capacity": "8 kg",
+      "type": "Front Load",
+      "motor": "EcoSilence Drive",
+      "rpm": "1400",
+      "color": "Silver"
+    },
+    "stock": 10,
+    "location": "Bangalore Warehouse",
+    "tags": ["front-load", "premium", "silent"]
+  },
+  {
+    "_id": "wm014",
+    "name": "Whirlpool 7.5kg Fully Automatic Top Load",
+    "brand": "Whirlpool",
+    "category": "Washing Machine",
+    "price": 16990,
+    "rating": 4.3,
+    "reviews": [
+      "Value for money with good wash quality.",
+      "Programs are easy to understand."
+    ],
+    "description": "A budget-friendly top-load machine ideal for daily usage.",
+    "specifications": {
+      "capacity": "7.5 kg",
+      "type": "Top Load",
+      "motor": "6th Sense Technology",
+      "rpm": "740",
+      "color": "Black"
+    },
+    "stock": 18,
+    "location": "Hyderabad Warehouse",
+    "tags": ["budget", "top-load", "daily-use"]
+  },
+  {
+    "_id": "wm015",
+    "name": "IFB 8.5kg Front Load Steam Wash Machine",
+    "brand": "IFB",
+    "category": "Washing Machine",
+    "price": 36490,
+    "rating": 4.6,
+    "reviews": [
+      "Steam wash is excellent for removing stains.",
+      "Premium look and sturdy machine."
+    ],
+    "description": "A steam-enabled front-load machine designed for advanced cleaning.",
+    "specifications": {
+      "capacity": "8.5 kg",
+      "type": "Front Load",
+      "motor": "Inverter",
+      "rpm": "1400",
+      "color": "Dark Grey"
+    },
+    "stock": 9,
+    "location": "Delhi Warehouse",
+    "tags": ["steam-wash", "front-load", "premium"]
+  },
+  {
+    "_id": "wm016",
+    "name": "Godrej 6.2kg Fully Automatic Top Load Washing Machine",
+    "brand": "Godrej",
+    "category": "Washing Machine",
+    "price": 13490,
+    "rating": 4.2,
+    "reviews": [
+      "Good for bachelors and small families.",
+      "Simple controls and low noise."
+    ],
+    "description": "A lightweight and easy-to-use top-load washing machine.",
+    "specifications": {
+      "capacity": "6.2 kg",
+      "type": "Top Load",
+      "motor": "Standard Motor",
+      "rpm": "700",
+      "color": "White"
+    },
+    "stock": 25,
+    "location": "Kolkata Warehouse",
+    "tags": ["lightweight", "budget", "top-load"]
+  },
+  {
+    "_id": "wm017",
+    "name": "Panasonic 7kg Fully Automatic Top Load Machine",
+    "brand": "Panasonic",
+    "category": "Washing Machine",
+    "price": 15990,
+    "rating": 4.3,
+    "reviews": [
+      "Washes clothes thoroughly.",
+      "Design looks modern and attractive."
+    ],
+    "description": "A stylish and efficient top-load washing machine with multiple wash modes.",
+    "specifications": {
+      "capacity": "7 kg",
+      "type": "Top Load",
+      "motor": "Inverter",
+      "rpm": "760",
+      "color": "Grey"
+    },
+    "stock": 17,
+    "location": "Chennai Warehouse",
+    "tags": ["top-load", "inverter", "value-for-money"]
+  },
+  {
+    "_id": "wm018",
+    "name": "Haier 6kg Front Load Anti-Bacterial Washing Machine",
+    "brand": "Haier",
+    "category": "Washing Machine",
+    "price": 20990,
+    "rating": 4.4,
+    "reviews": [
+      "Great wash quality and compact size.",
+      "Anti-bacterial mode actually works."
+    ],
+    "description": "A front-load machine with anti-bacterial wash feature for hygiene-focused customers.",
+    "specifications": {
+      "capacity": "6 kg",
+      "type": "Front Load",
+      "motor": "Inverter",
+      "rpm": "1200",
+      "color": "White"
+    },
+    "stock": 13,
+    "location": "Pune Warehouse",
+    "tags": ["front-load", "anti-bacterial", "compact"]
+  },
+  {
+    "_id": "wm019",
+    "name": "Onida 7kg Semi-Automatic Washer",
+    "brand": "Onida",
+    "category": "Washing Machine",
+    "price": 9990,
+    "rating": 4.1,
+    "reviews": [
+      "Good for budget buyers.",
+      "Durable body and fast drying."
+    ],
+    "description": "A semi-automatic washing machine built for durability and low water usage.",
+    "specifications": {
+      "capacity": "7 kg",
+      "type": "Semi-Automatic",
+      "motor": "Standard",
+      "rpm": "1350",
+      "color": "Maroon"
+    },
+    "stock": 30,
+    "location": "Lucknow Warehouse",
+    "tags": ["semi-automatic", "budget", "durable"]
+  },
+  {
+    "_id": "wm020",
+    "name": "Siemens 9kg Premium Front Load Washing Machine",
+    "brand": "Siemens",
+    "category": "Washing Machine",
+    "price": 45990,
+    "rating": 4.7,
+    "reviews": [
+      "Premium performance with excellent wash cycles.",
+      "Silent, powerful, and energy-efficient."
+    ],
+    "description": "A premium European-engineered washing machine with smart features.",
+    "specifications": {
+      "capacity": "9 kg",
+      "type": "Front Load",
+      "motor": "iQDrive Inverter Motor",
+      "rpm": "1600",
+      "color": "Silver"
+    },
+    "stock": 8,
+    "location": "Delhi Warehouse",
+    "tags": ["premium", "front-load", "smart"]
+  }
+]

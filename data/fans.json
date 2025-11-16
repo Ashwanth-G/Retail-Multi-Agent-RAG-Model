@@ -1,0 +1,462 @@
+[
+  {
+    "_id": "fan001",
+    "name": "AirFlow 1200 mm High-Speed Ceiling Fan",
+    "brand": "AirFlow",
+    "category": "Fan",
+    "price": 3499,
+    "rating": 4.4,
+    "reviews": [
+      "Very powerful breeze even at low speed.",
+      "Runs smoothly and quietly."
+    ],
+    "description": "A 1200 mm high-speed ceiling fan with aerodynamic blades for strong airflow.",
+    "specifications": {
+      "blade_size": "1200 mm",
+      "power": "70 W",
+      "speed_levels": 6,
+      "air_delivery": "200 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 25,
+    "location": "Chennai Warehouse",
+    "tags": ["high-speed", "ceiling", "powerful"]
+  },
+  {
+    "_id": "fan002",
+    "name": "CoolBreeze 900 mm Indoor Wall Fan",
+    "brand": "CoolBreeze",
+    "category": "Fan",
+    "price": 1999,
+    "rating": 4.1,
+    "reviews": [
+      "Good airflow and easy to mount.",
+      "A bit noisy on highest speed."
+    ],
+    "description": "A compact 900 mm wall-mounted fan perfect for small rooms or corridors.",
+    "specifications": {
+      "blade_size": "900 mm",
+      "power": "55 W",
+      "speed_levels": 3,
+      "air_delivery": "150 m³/min",
+      "installation_type": "Wall"
+    },
+    "stock": 30,
+    "location": "Mumbai Warehouse",
+    "tags": ["wall-fan", "compact", "budget"]
+  },
+  {
+    "_id": "fan003",
+    "name": "TurboWind 1200 mm Energy Saving Ceiling Fan",
+    "brand": "TurboWind",
+    "category": "Fan",
+    "price": 3999,
+    "rating": 4.5,
+    "reviews": [
+      "Very energy efficient.",
+      "Blades are well balanced."
+    ],
+    "description": "A 1200 mm ceiling fan designed for low energy consumption and long runtime.",
+    "specifications": {
+      "blade_size": "1200 mm",
+      "power": "60 W",
+      "speed_levels": 5,
+      "air_delivery": "190 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 20,
+    "location": "Delhi Warehouse",
+    "tags": ["energy-saving", "ceiling"]
+  },
+  {
+    "_id": "fan004",
+    "name": "BreezeMax 1400 mm Aero Ceiling Fan",
+    "brand": "BreezeMax",
+    "category": "Fan",
+    "price": 4999,
+    "rating": 4.6,
+    "reviews": [
+      "Huge blade feels like a wind tunnel.",
+      "Very silent for its size."
+    ],
+    "description": "A large 1400 mm aero ceiling fan for big rooms or halls.",
+    "specifications": {
+      "blade_size": "1400 mm",
+      "power": "75 W",
+      "speed_levels": 6,
+      "air_delivery": "230 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 12,
+    "location": "Bangalore Warehouse",
+    "tags": ["aero", "large-room", "high-airflow"]
+  },
+  {
+    "_id": "fan005",
+    "name": "WindMaster 56\" Smart Ceiling Fan",
+    "brand": "WindMaster",
+    "category": "Fan",
+    "price": 7999,
+    "rating": 4.7,
+    "reviews": [
+      "Smart control via app works very well.",
+      "Elegant design and very stable."
+    ],
+    "description": "A 56-inch (about 1400 mm) smart ceiling fan with WiFi and remote control.",
+    "specifications": {
+      "blade_size": "1400 mm",
+      "power": "65 W",
+      "speed_levels": 6,
+      "air_delivery": "220 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 10,
+    "location": "Chennai Warehouse",
+    "tags": ["smart", "wifi", "remote"]
+  },
+  {
+    "_id": "fan006",
+    "name": "EcoFan 48\" DC Motor Ceiling Fan",
+    "brand": "EcoFan",
+    "category": "Fan",
+    "price": 8999,
+    "rating": 4.5,
+    "reviews": [
+      "DC motor really saves power.",
+      "Very low vibration."
+    ],
+    "description": "A 48-inch ceiling fan with efficient DC motor for minimal power usage.",
+    "specifications": {
+      "blade_size": "1219 mm",
+      "power": "28 W",
+      "speed_levels": 6,
+      "air_delivery": "180 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 15,
+    "location": "Hyderabad Warehouse",
+    "tags": ["dc-motor", "energy-saving", "quiet"]
+  },
+  {
+    "_id": "fan007",
+    "name": "BreezeLite 1000 mm Pedestal Fan",
+    "brand": "BreezeLite",
+    "category": "Fan",
+    "price": 2499,
+    "rating": 4.2,
+    "reviews": [
+      "Good height and oscillation.",
+      "Base feels stable, not flimsy."
+    ],
+    "description": "A 1000 mm pedestal fan with adjustable height and strong airflow.",
+    "specifications": {
+      "blade_size": "1000 mm",
+      "power": "55 W",
+      "speed_levels": 4,
+      "air_delivery": "160 m³/min",
+      "installation_type": "Pedestal"
+    },
+    "stock": 20,
+    "location": "Pune Warehouse",
+    "tags": ["pedestal", "adjustable", "portable"]
+  },
+  {
+    "_id": "fan008",
+    "name": "CoolWave 900 mm Table Fan",
+    "brand": "CoolWave",
+    "category": "Fan",
+    "price": 1299,
+    "rating": 4.0,
+    "reviews": [
+      "Small but delivers good air.",
+      "Perfect for study table."
+    ],
+    "description": "A compact 900 mm table fan for desks, tables, and bedside use.",
+    "specifications": {
+      "blade_size": "900 mm",
+      "power": "45 W",
+      "speed_levels": 3,
+      "air_delivery": "120 m³/min",
+      "installation_type": "Table"
+    },
+    "stock": 25,
+    "location": "Kolkata Warehouse",
+    "tags": ["table", "compact", "budget"]
+  },
+  {
+    "_id": "fan009",
+    "name": "StormJet 1200 mm Outdoor Ceiling Fan",
+    "brand": "StormJet",
+    "category": "Fan",
+    "price": 5999,
+    "rating": 4.3,
+    "reviews": [
+      "Water-resistant design, good for patio.",
+      "Strong airflow even outside."
+    ],
+    "description": "A 1200 mm ceiling fan built for outdoor use with weather-resistant blades.",
+    "specifications": {
+      "blade_size": "1200 mm",
+      "power": "70 W",
+      "speed_levels": 5,
+      "air_delivery": "210 m³/min",
+      "installation_type": "Ceiling (outdoor-rated)"
+    },
+    "stock": 14,
+    "location": "Delhi Warehouse",
+    "tags": ["outdoor", "weather-proof", "patio"]
+  },
+  {
+    "_id": "fan010",
+    "name": "WindSwift 56\" Convertible Ceiling Fan / Lamp",
+    "brand": "WindSwift",
+    "category": "Fan",
+    "price": 8999,
+    "rating": 4.5,
+    "reviews": [
+      "Great 2-in-1 fan and light.",
+      "Lamp is bright and fan is powerful."
+    ],
+    "description": "A 56-inch ceiling fan that doubles as a lamp, perfect for modern rooms.",
+    "specifications": {
+      "blade_size": "1400 mm",
+      "power": "60 W (fan) + 15 W (LED)",
+      "speed_levels": 5,
+      "air_delivery": "200 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 11,
+    "location": "Bangalore Warehouse",
+    "tags": ["2-in-1", "fan-lamp", "stylish"]
+  },
+  {
+    "_id": "fan011",
+    "name": "BreezyFlow 1200 mm Ceiling Fan with Remote",
+    "brand": "BreezyFlow",
+    "category": "Fan",
+    "price": 4299,
+    "rating": 4.4,
+    "reviews": [
+      "Remote control is very handy.",
+      "Great value for features offered."
+    ],
+    "description": "A 1200 mm ceiling fan controlled via remote for convenience and comfort.",
+    "specifications": {
+      "blade_size": "1200 mm",
+      "power": "65 W",
+      "speed_levels": 6,
+      "air_delivery": "200 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 16,
+    "location": "Mumbai Warehouse",
+    "tags": ["remote", "ceiling", "convenient"]
+  },
+  {
+    "_id": "fan012",
+    "name": "AirLite 900 mm DC Table Fan",
+    "brand": "AirLite",
+    "category": "Fan",
+    "price": 1999,
+    "rating": 4.1,
+    "reviews": [
+      "Very low power draw.",
+      "Quiet enough for working at night."
+    ],
+    "description": "A 900 mm desk/table fan with power-saving DC motor for low electricity use.",
+    "specifications": {
+      "blade_size": "900 mm",
+      "power": "25 W",
+      "speed_levels": 6,
+      "air_delivery": "110 m³/min",
+      "installation_type": "Table"
+    },
+    "stock": 22,
+    "location": "Chennai Warehouse",
+    "tags": ["dc-motor", "energy-saving", "table"]
+  },
+  {
+    "_id": "fan013",
+    "name": "CoolMist 400 mm Pedestal Mist Fan",
+    "brand": "CoolMist",
+    "category": "Fan",
+    "price": 3499,
+    "rating": 4.2,
+    "reviews": [
+      "Mist adds a pleasant cooling effect.",
+      "Height adjustment is very convenient."
+    ],
+    "description": "A 400 mm pedestal fan with misting function to cool hot and dry air.",
+    "specifications": {
+      "blade_size": "400 mm",
+      "power": "60 W (fan) + pump",
+      "speed_levels": 4,
+      "air_delivery": "140 m³/min",
+      "installation_type": "Pedestal"
+    },
+    "stock": 12,
+    "location": "Pune Warehouse",
+    "tags": ["mist", "pedestal", "cooling"]
+  },
+  {
+    "_id": "fan014",
+    "name": "AeroSilent 1200 mm Ultra Silent Fan",
+    "brand": "AeroSilent",
+    "category": "Fan",
+    "price": 5499,
+    "rating": 4.6,
+    "reviews": [
+      "Barely hear it running.",
+      "Blades are very well balanced."
+    ],
+    "description": "A 1200 mm ceiling fan engineered to produce very low operational noise.",
+    "specifications": {
+      "blade_size": "1200 mm",
+      "power": "60 W",
+      "speed_levels": 5,
+      "air_delivery": "190 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 13,
+    "location": "Hyderabad Warehouse",
+    "tags": ["silent", "ceiling", "premium"]
+  },
+  {
+    "_id": "fan015",
+    "name": "WindPro 48\" DC Wall Fan",
+    "brand": "WindPro",
+    "category": "Fan",
+    "price": 2999,
+    "rating": 4.3,
+    "reviews": [
+      "DC motor saves a lot on electricity.",
+      "Stable wall mounting."
+    ],
+    "description": "A 48-inch wall fan powered by a DC motor to reduce power consumption.",
+    "specifications": {
+      "blade_size": "1220 mm",
+      "power": "30 W",
+      "speed_levels": 5,
+      "air_delivery": "170 m³/min",
+      "installation_type": "Wall"
+    },
+    "stock": 18,
+    "location": "Kolkata Warehouse",
+    "tags": ["dc-motor", "wall", "energy-efficient"]
+  },
+  {
+    "_id": "fan016",
+    "name": "CloudBreeze 1000 mm Ceiling Fan with Light",
+    "brand": "CloudBreeze",
+    "category": "Fan",
+    "price": 5099,
+    "rating": 4.4,
+    "reviews": [
+      "Lamp brightness is good.",
+      "Fan speed is perfectly balanced."
+    ],
+    "description": "A 1000 mm ceiling fan that comes integrated with a LED light for dual use.",
+    "specifications": {
+      "blade_size": "1000 mm",
+      "power": "55 W (fan) + 12 W (LED)",
+      "speed_levels": 5,
+      "air_delivery": "170 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 14,
+    "location": "Bangalore Warehouse",
+    "tags": ["fan-light", "ceiling", "dual-use"]
+  },
+  {
+    "_id": "fan017",
+    "name": "StormForce 1400 mm Industrial Ceiling Fan",
+    "brand": "StormForce",
+    "category": "Fan",
+    "price": 8499,
+    "rating": 4.5,
+    "reviews": [
+      "Very robust and long blades.",
+      "Perfect for garage or warehouse."
+    ],
+    "description": "A heavy-duty 1400 mm ceiling fan designed for industrial and large spaces.",
+    "specifications": {
+      "blade_size": "1400 mm",
+      "power": "85 W",
+      "speed_levels": 5,
+      "air_delivery": "250 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 8,
+    "location": "Delhi Warehouse",
+    "tags": ["industrial", "high-airflow", "large-blade"]
+  },
+  {
+    "_id": "fan018",
+    "name": "SwiftCool 900 mm Rechargeable Table Fan",
+    "brand": "SwiftCool",
+    "category": "Fan",
+    "price": 2199,
+    "rating": 4.2,
+    "reviews": [
+      "Good backup battery life.",
+      "Easy to carry around."
+    ],
+    "description": "A rechargeable table fan with USB charging and 4 speed levels.",
+    "specifications": {
+      "blade_size": "900 mm",
+      "power": "15 W / 5 W (on battery)",
+      "speed_levels": 4,
+      "air_delivery": "130 m³/min",
+      "installation_type": "Table / Portable"
+    },
+    "stock": 20,
+    "location": "Pune Warehouse",
+    "tags": ["rechargeable", "portable", "table-fan"]
+  },
+  {
+    "_id": "fan019",
+    "name": "AeroCool 1100 mm Decorative Ceiling Fan",
+    "brand": "AeroCool",
+    "category": "Fan",
+    "price": 5999,
+    "rating": 4.3,
+    "reviews": [
+      "Looks elegant with the decorative motif.",
+      "Airflow is good and balanced."
+    ],
+    "description": "A decorative 1100 mm ceiling fan with stylish blades and home décor feel.",
+    "specifications": {
+      "blade_size": "1100 mm",
+      "power": "65 W",
+      "speed_levels": 5,
+      "air_delivery": "190 m³/min",
+      "installation_type": "Ceiling"
+    },
+    "stock": 13,
+    "location": "Hyderabad Warehouse",
+    "tags": ["decorative", "stylish", "ceiling"]
+  },
+  {
+    "_id": "fan020",
+    "name": "BreezePro 1200 mm Silent DC Wall Fan",
+    "brand": "BreezePro",
+    "category": "Fan",
+    "price": 3299,
+    "rating": 4.4,
+    "reviews": [
+      "Very low noise even at high speed.",
+      "Excellent for bedrooms."
+    ],
+    "description": "A wall-mounted fan with DC motor designed to run silently and efficiently.",
+    "specifications": {
+      "blade_size": "1200 mm",
+      "power": "32 W",
+      "speed_levels": 6,
+      "air_delivery": "180 m³/min",
+      "installation_type": "Wall"
+    },
+    "stock": 15,
+    "location": "Kolkata Warehouse",
+    "tags": ["silent", "dc-motor", "wall-fan"]
+  }
+]

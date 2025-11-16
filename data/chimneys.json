@@ -1,0 +1,462 @@
+[
+  {
+    "_id": "kc001",
+    "name": "SuctionPro 60cm Wall-Mount Chimney",
+    "brand": "SuctionPro",
+    "category": "Kitchen Chimney",
+    "price": 8999,
+    "rating": 4.2,
+    "reviews": [
+      "Great suction for small kitchens.",
+      "Noise level is slightly high but manageable."
+    ],
+    "description": "A 60cm wall-mount chimney suitable for 2–3 burner stoves.",
+    "specifications": {
+      "size": "60 cm",
+      "suction_power": "1100 m³/hr",
+      "filter_type": "Baffle Filter",
+      "control_type": "Push Button",
+      "noise_level": "58 dB"
+    },
+    "stock": 17,
+    "location": "Chennai Warehouse",
+    "tags": ["budget", "wall-mount", "baffle-filter"]
+  },
+  {
+    "_id": "kc002",
+    "name": "AeroClean 90cm Auto-Clean Chimney",
+    "brand": "AeroClean",
+    "category": "Kitchen Chimney",
+    "price": 15499,
+    "rating": 4.4,
+    "reviews": [
+      "Auto-clean feature makes maintenance easy.",
+      "Covers a large stove area efficiently."
+    ],
+    "description": "A 90cm chimney with thermal auto-clean for heavy Indian cooking.",
+    "specifications": {
+      "size": "90 cm",
+      "suction_power": "1500 m³/hr",
+      "filter_type": "Filterless",
+      "control_type": "Touch + Motion Sensor",
+      "noise_level": "52 dB"
+    },
+    "stock": 11,
+    "location": "Mumbai Warehouse",
+    "tags": ["auto-clean", "filterless", "large-kitchen"]
+  },
+  {
+    "_id": "kc003",
+    "name": "VentAir 75cm Curved Glass Chimney",
+    "brand": "VentAir",
+    "category": "Kitchen Chimney",
+    "price": 12999,
+    "rating": 4.1,
+    "reviews": [
+      "Stylish design and good suction.",
+      "Installation took longer than expected."
+    ],
+    "description": "A curved glass chimney with strong suction ideal for everyday cooking.",
+    "specifications": {
+      "size": "75 cm",
+      "suction_power": "1200 m³/hr",
+      "filter_type": "Cassette Filter",
+      "control_type": "Touch Control",
+      "noise_level": "56 dB"
+    },
+    "stock": 22,
+    "location": "Hyderabad Warehouse",
+    "tags": ["curved-glass", "cassette-filter", "stylish"]
+  },
+  {
+    "_id": "kc004",
+    "name": "PureFlow 60cm Filterless Kitchen Chimney",
+    "brand": "PureFlow",
+    "category": "Kitchen Chimney",
+    "price": 11499,
+    "rating": 4.3,
+    "reviews": [
+      "Filterless design saves cleaning time.",
+      "Suction is strong and consistent."
+    ],
+    "description": "A compact filterless chimney that delivers high performance.",
+    "specifications": {
+      "size": "60 cm",
+      "suction_power": "1300 m³/hr",
+      "filter_type": "Filterless",
+      "control_type": "Motion Sensor",
+      "noise_level": "54 dB"
+    },
+    "stock": 15,
+    "location": "Kolkata Warehouse",
+    "tags": ["filterless", "compact", "motion-sensor"]
+  },
+  {
+    "_id": "kc005",
+    "name": "ChefMaster 90cm Auto-Clean Glass Chimney",
+    "brand": "ChefMaster",
+    "category": "Kitchen Chimney",
+    "price": 16999,
+    "rating": 4.5,
+    "reviews": [
+      "Perfect for heavy cooking and frying.",
+      "Auto-clean works flawlessly."
+    ],
+    "description": "A 90cm glass chimney designed for families that cook frequently.",
+    "specifications": {
+      "size": "90 cm",
+      "suction_power": "1600 m³/hr",
+      "filter_type": "Baffle Filter",
+      "control_type": "Touch + Remote",
+      "noise_level": "50 dB"
+    },
+    "stock": 9,
+    "location": "Delhi Warehouse",
+    "tags": ["auto-clean", "baffle-filter", "premium"]
+  },
+  {
+    "_id": "kc006",
+    "name": "WindFlow 60cm Pyramid Kitchen Chimney",
+    "brand": "WindFlow",
+    "category": "Kitchen Chimney",
+    "price": 7499,
+    "rating": 4.0,
+    "reviews": [
+      "Affordable and does the job well.",
+      "Not ideal for very heavy cooking."
+    ],
+    "description": "A budget-friendly pyramid-style chimney suitable for small kitchens.",
+    "specifications": {
+      "size": "60 cm",
+      "suction_power": "900 m³/hr",
+      "filter_type": "Aluminium Filter",
+      "control_type": "Push Button",
+      "noise_level": "60 dB"
+    },
+    "stock": 30,
+    "location": "Pune Warehouse",
+    "tags": ["budget", "pyramid", "aluminium-filter"]
+  },
+  {
+    "_id": "kc007",
+    "name": "TurboLift 75cm High Suction Chimney",
+    "brand": "TurboLift",
+    "category": "Kitchen Chimney",
+    "price": 13999,
+    "rating": 4.4,
+    "reviews": [
+      "Suction is extremely powerful.",
+      "Motion sensor works very well."
+    ],
+    "description": "A heavy-duty chimney for households with frequent frying and grilling.",
+    "specifications": {
+      "size": "75 cm",
+      "suction_power": "1700 m³/hr",
+      "filter_type": "Filterless",
+      "control_type": "Touch + Motion Sensor",
+      "noise_level": "53 dB"
+    },
+    "stock": 13,
+    "location": "Bangalore Warehouse",
+    "tags": ["high-suction", "filterless", "motion-sensor"]
+  },
+  {
+    "_id": "kc008",
+    "name": "FlameGuard 60cm Auto-Clean Chimney",
+    "brand": "FlameGuard",
+    "category": "Kitchen Chimney",
+    "price": 11999,
+    "rating": 4.2,
+    "reviews": [
+      "Compact and powerful for a 60cm chimney.",
+      "Oil collector tray is very convenient."
+    ],
+    "description": "A 60cm auto-clean chimney ideal for medium-sized households.",
+    "specifications": {
+      "size": "60 cm",
+      "suction_power": "1400 m³/hr",
+      "filter_type": "Baffle Filter",
+      "control_type": "Touch Control",
+      "noise_level": "55 dB"
+    },
+    "stock": 18,
+    "location": "Jaipur Warehouse",
+    "tags": ["auto-clean", "baffle-filter", "medium-kitchen"]
+  },
+  {
+    "_id": "kc009",
+    "name": "AirNova 75cm Smart Chimney with Auto Clean",
+    "brand": "AirNova",
+    "category": "Kitchen Chimney",
+    "price": 15999,
+    "rating": 4.6,
+    "reviews": [
+      "Smart features are useful and smooth.",
+      "Very quiet for its suction capacity."
+    ],
+    "description": "A smart kitchen chimney featuring WiFi and auto-clean technology.",
+    "specifications": {
+      "size": "75 cm",
+      "suction_power": "1550 m³/hr",
+      "filter_type": "Filterless",
+      "control_type": "Smart Touch + WiFi",
+      "noise_level": "49 dB"
+    },
+    "stock": 8,
+    "location": "Ahmedabad Warehouse",
+    "tags": ["smart", "wifi-enabled", "filterless"]
+  },
+  {
+    "_id": "kc010",
+    "name": "SmokeShield 90cm Heavy-Duty Chimney",
+    "brand": "SmokeShield",
+    "category": "Kitchen Chimney",
+    "price": 18999,
+    "rating": 4.5,
+    "reviews": [
+      "Perfect for large modular kitchens.",
+      "Very premium built quality."
+    ],
+    "description": "A large 90cm chimney with high suction ideal for commercial-level cooking.",
+    "specifications": {
+      "size": "90 cm",
+      "suction_power": "1800 m³/hr",
+      "filter_type": "Baffle Filter",
+      "control_type": "Touch + Remote",
+      "noise_level": "48 dB"
+    },
+    "stock": 6,
+    "location": "Chennai Warehouse",
+    "tags": ["heavy-duty", "large-kitchen", "premium"]
+  },
+  {
+    "_id": "kc011",
+    "name": "EcoBreeze 60cm Energy Efficient Chimney",
+    "brand": "EcoBreeze",
+    "category": "Kitchen Chimney",
+    "price": 9999,
+    "rating": 4.3,
+    "reviews": [
+      "Energy efficient and works well.",
+      "Good value for money."
+    ],
+    "description": "A 60cm chimney designed for energy efficiency without compromising performance.",
+    "specifications": {
+      "size": "60 cm",
+      "suction_power": "1150 m³/hr",
+      "filter_type": "Cassette Filter",
+      "control_type": "Push Button",
+      "noise_level": "57 dB"
+    },
+    "stock": 20,
+    "location": "Mumbai Warehouse",
+    "tags": ["energy-efficient", "cassette-filter", "budget"]
+  },
+  {
+    "_id": "kc012",
+    "name": "GourmetAir 75cm Premium Glass Chimney",
+    "brand": "GourmetAir",
+    "category": "Kitchen Chimney",
+    "price": 17499,
+    "rating": 4.7,
+    "reviews": [
+      "Exceptional suction and very quiet.",
+      "The glass design adds elegance to the kitchen."
+    ],
+    "description": "A premium 75cm glass chimney with top-notch features for gourmet cooking.",
+    "specifications": {
+      "size": "75 cm",
+      "suction_power": "1650 m³/hr",
+      "filter_type": "Filterless",
+      "control_type": "Touch + Remote",
+      "noise_level": "47 dB"
+    },
+    "stock": 7,
+    "location": "Hyderabad Warehouse",
+    "tags": ["premium", "glass-design", "filterless"]
+  },
+  {
+    "_id": "kc013",
+    "name": "BreezeMax 90cm Wall-Mount Chimney",
+    "brand": "BreezeMax",
+    "category": "Kitchen Chimney",
+    "price": 14499,
+    "rating": 4.2,
+    "reviews": [
+      "Good suction for its size.",
+      "Installation was straightforward."
+    ],
+    "description": "A 90cm wall-mount chimney suitable for medium to large kitchens.",
+    "specifications": {
+      "size": "90 cm",
+      "suction_power": "1450 m³/hr",
+      "filter_type": "Baffle Filter",
+      "control_type": "Push Button",
+      "noise_level": "54 dB"
+    },
+    "stock": 14,
+    "location": "Kolkata Warehouse",
+    "tags": ["wall-mount", "baffle-filter", "medium-kitchen"]
+  },
+  {
+    "_id": "kc014",
+    "name": "PureAir 75cm Auto-Clean Kitchen Chimney",
+    "brand": "PureAir",
+    "category": "Kitchen Chimney",
+    "price": 13999,
+    "rating": 4.3,
+    "reviews": [
+      "Auto-clean feature is very effective.",
+      "Suction power is adequate for daily cooking."
+    ],
+    "description": "A 75cm chimney with auto-clean technology for hassle-free maintenance.",
+    "specifications": {
+      "size": "75 cm",
+      "suction_power": "1350 m³/hr",
+      "filter_type": "Baffle Filter",
+      "control_type": "Touch Control",
+      "noise_level": "55 dB"
+    },
+    "stock": 16,
+    "location": "Pune Warehouse",
+    "tags": ["auto-clean", "baffle-filter", "daily-use"]
+  },
+  {
+    "_id": "kc015",
+    "name": "AirElite 60cm Smart Chimney with WiFi",
+    "brand": "AirElite",
+    "category": "Kitchen Chimney",
+    "price": 12999,
+    "rating": 4.4,
+    "reviews": [
+      "WiFi connectivity is a great addition.",
+      "Quiet operation and good suction."
+    ],
+    "description": "A smart 60cm kitchen chimney with WiFi control and efficient performance.",
+    "specifications": {
+      "size": "60 cm",
+      "suction_power": "1250 m³/hr",
+      "filter_type": "Filterless",
+      "control_type": "Smart Touch + WiFi",
+      "noise_level": "51 dB"
+    },
+    "stock": 19,
+    "location": "Delhi Warehouse",
+    "tags": ["smart", "wifi-enabled", "filterless"]
+  },
+  {
+    "_id": "kc016",
+    "name": "Chef's Choice 90cm High Performance Chimney",
+    "brand": "Chef's Choice",
+    "category": "Kitchen Chimney",
+    "price": 19999,
+    "rating": 4.6,
+    "reviews": [
+      "Handles heavy cooking with ease.",
+      "Durable build and excellent suction."
+    ],
+    "description": "A high-performance 90cm chimney designed for professional-level cooking at home.",
+    "specifications": {
+      "size": "90 cm",
+      "suction_power": "1900 m³/hr",
+      "filter_type": "Baffle Filter",
+      "control_type": "Touch + Remote",
+      "noise_level": "46 dB"
+    },
+    "stock": 5,
+    "location": "Ahmedabad Warehouse",
+    "tags": ["high-performance", "baffle-filter", "professional"]
+  },
+  {
+    "_id": "kc017",
+    "name": "BreezeLite 75cm Compact Chimney",
+    "brand": "BreezeLite",
+    "category": "Kitchen Chimney",
+    "price": 10999,
+    "rating": 4.1,
+    "reviews": [
+      "Compact size fits well in small kitchens.",
+      "Suction is decent for light cooking."
+    ],
+    "description": "A compact 75cm chimney ideal for small kitchens and light cooking needs.",
+    "specifications": {
+      "size": "75 cm",
+      "suction_power": "1000 m³/hr",
+      "filter_type": "Aluminium Filter",
+      "control_type": "Push Button",
+      "noise_level": "59 dB"
+    },
+    "stock": 25,
+    "location": "Chennai Warehouse",
+    "tags": ["compact", "aluminium-filter", "budget"]
+  },
+  {
+    "_id": "kc018",
+    "name": "Ventura 90cm Deluxe Glass Chimney",
+    "brand": "Ventura",
+    "category": "Kitchen Chimney",
+    "price": 18499,
+    "rating": 4.5,
+    "reviews": [
+      "Deluxe design with powerful suction.",
+      "Very easy to clean and maintain."
+    ],
+    "description": "A deluxe 90cm glass chimney with advanced features for modern kitchens.",
+    "specifications": {
+      "size": "90 cm",
+      "suction_power": "1750 m³/hr",
+      "filter_type": "Filterless",
+      "control_type": "Touch + Remote",
+      "noise_level": "50 dB"
+    },
+    "stock": 10,
+    "location": "Mumbai Warehouse",
+    "tags": ["deluxe", "glass-design", "filterless"]
+  },
+  {
+    "_id": "kc019",
+    "name": "AirWave 60cm Budget Chimney",
+    "brand": "AirWave",
+    "category": "Kitchen Chimney",
+    "price": 7999,
+    "rating": 4.0,
+    "reviews": [
+      "Affordable option for basic needs.",
+      "Suction is good for light cooking."
+    ],
+    "description": "A budget-friendly 60cm chimney suitable for small kitchens and light cooking.",
+    "specifications": {
+      "size": "60 cm",
+      "suction_power": "950 m³/hr",
+      "filter_type": "Aluminium Filter",
+      "control_type": "Push Button",
+      "noise_level": "61 dB"
+    },
+    "stock": 28,
+    "location": "Hyderabad Warehouse",
+    "tags": ["budget", "aluminium-filter", "basic"]
+  },
+  {
+    "_id": "kc020",
+    "name": "SmokeAway 75cm Advanced Auto-Clean Chimney",
+    "brand": "SmokeAway",
+    "category": "Kitchen Chimney",
+    "price": 16499,
+    "rating": 4.4,
+    "reviews": [
+      "Advanced auto-clean works like a charm.",
+      "Strong suction and quiet operation."
+    ],
+    "description": "A 75cm advanced chimney with auto-clean technology for effortless maintenance.",
+    "specifications": {
+      "size": "75 cm",
+      "suction_power": "1600 m³/hr",
+      "filter_type": "Baffle Filter",
+      "control_type": "Touch + Motion Sensor",
+      "noise_level": "52 dB"
+    },
+    "stock": 12,
+    "location": "Kolkata Warehouse",
+    "tags": ["advanced", "auto-clean", "baffle-filter"]
+  }
+]

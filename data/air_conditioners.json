@@ -1,0 +1,462 @@
+[
+  {
+    "_id": "ac001",
+    "name": "CoolBreeze 1.5 Ton 5 Star Inverter Split AC",
+    "brand": "CoolBreeze",
+    "category": "Air Conditioner",
+    "price": 38999,
+    "rating": 4.5,
+    "reviews": [
+      "Cools the room very fast.",
+      "Power consumption is really low."
+    ],
+    "description": "A 1.5 ton inverter split AC offering efficient cooling for medium-sized rooms.",
+    "specifications": {
+      "capacity": "1.5 Ton",
+      "type": "Split AC",
+      "energy_rating": "5 Star",
+      "compressor": "Inverter Compressor",
+      "features": "Auto Clean, Turbo Mode"
+    },
+    "stock": 15,
+    "location": "Chennai Warehouse",
+    "tags": ["inverter", "5-star", "split-ac"]
+  },
+  {
+    "_id": "ac002",
+    "name": "PolarWind 1 Ton 3 Star Window AC",
+    "brand": "PolarWind",
+    "category": "Air Conditioner",
+    "price": 21999,
+    "rating": 4.0,
+    "reviews": [
+      "Good for small rooms.",
+      "Makes slightly more noise but cooling is strong."
+    ],
+    "description": "A budget-friendly 1 ton window AC ideal for compact spaces.",
+    "specifications": {
+      "capacity": "1 Ton",
+      "type": "Window AC",
+      "energy_rating": "3 Star",
+      "compressor": "Rotary Compressor",
+      "features": "High Airflow, Copper Condenser"
+    },
+    "stock": 18,
+    "location": "Delhi Warehouse",
+    "tags": ["window-ac", "budget", "compact"]
+  },
+  {
+    "_id": "ac003",
+    "name": "FrostX 2 Ton 5 Star Inverter Split AC",
+    "brand": "FrostX",
+    "category": "Air Conditioner",
+    "price": 52999,
+    "rating": 4.6,
+    "reviews": [
+      "Excellent for large rooms.",
+      "Very silent and powerful cooling."
+    ],
+    "description": "A high-capacity AC designed for halls and large bedrooms.",
+    "specifications": {
+      "capacity": "2 Ton",
+      "type": "Split AC",
+      "energy_rating": "5 Star",
+      "compressor": "Dual Inverter",
+      "features": "4-Way Swing, Anti-Bacterial Filter"
+    },
+    "stock": 9,
+    "location": "Mumbai Warehouse",
+    "tags": ["dual-inverter", "large-room", "premium"]
+  },
+  {
+    "_id": "ac004",
+    "name": "AirNova 1.2 Ton 4 Star Smart Inverter AC",
+    "brand": "AirNova",
+    "category": "Air Conditioner",
+    "price": 32999,
+    "rating": 4.3,
+    "reviews": [
+      "Smart controls are very convenient.",
+      "Good cooling even in high temperatures."
+    ],
+    "description": "A smart inverter AC with app and voice control features.",
+    "specifications": {
+      "capacity": "1.2 Ton",
+      "type": "Split AC",
+      "energy_rating": "4 Star",
+      "compressor": "AI Inverter",
+      "features": "WiFi, Voice Control, Self Cleaning"
+    },
+    "stock": 12,
+    "location": "Bangalore Warehouse",
+    "tags": ["smart-ac", "wifi", "4-star"]
+  },
+  {
+    "_id": "ac005",
+    "name": "ChillMate 1.5 Ton 3 Star Split AC",
+    "brand": "ChillMate",
+    "category": "Air Conditioner",
+    "price": 28990,
+    "rating": 4.1,
+    "reviews": [
+      "Value for money product.",
+      "Moderate power consumption with strong cooling."
+    ],
+    "description": "A cost-effective 1.5 ton AC suitable for mid-sized rooms.",
+    "specifications": {
+      "capacity": "1.5 Ton",
+      "type": "Split AC",
+      "energy_rating": "3 Star",
+      "compressor": "Standard Inverter",
+      "features": "Dust Filter, Turbo Cooling"
+    },
+    "stock": 20,
+    "location": "Hyderabad Warehouse",
+    "tags": ["3-star", "budget", "turbo-cool"]
+  },
+  {
+    "_id": "ac006",
+    "name": "MaxCool 1 Ton Portable AC",
+    "brand": "MaxCool",
+    "category": "Air Conditioner",
+    "price": 25999,
+    "rating": 4.0,
+    "reviews": [
+      "Very convenient and movable.",
+      "Cooling is good for small rooms."
+    ],
+    "description": "A portable AC designed for rooms where installation is not possible.",
+    "specifications": {
+      "capacity": "1 Ton",
+      "type": "Portable AC",
+      "energy_rating": "2 Star",
+      "compressor": "Rotary",
+      "features": "Caster Wheels, Auto Swing"
+    },
+    "stock": 10,
+    "location": "Pune Warehouse",
+    "tags": ["portable", "movable", "easy-install"]
+  },
+  {
+    "_id": "ac007",
+    "name": "EcoFreeze 1.5 Ton 5 Star Window AC",
+    "brand": "EcoFreeze",
+    "category": "Air Conditioner",
+    "price": 31499,
+    "rating": 4.2,
+    "reviews": [
+      "Energy efficient and cools quickly.",
+      "A bit bulky but performance is great."
+    ],
+    "description": "A 1.5 ton energy-efficient window AC with copper condenser.",
+    "specifications": {
+      "capacity": "1.5 Ton",
+      "type": "Window AC",
+      "energy_rating": "5 Star",
+      "compressor": "Inverter",
+      "features": "Fast Cooling, Anti-Dust Filter"
+    },
+    "stock": 11,
+    "location": "Kolkata Warehouse",
+    "tags": ["window-ac", "energy-efficient", "fast-cool"]
+  },
+  {
+    "_id": "ac008",
+    "name": "BlueWind 1.8 Ton 4 Star Heavy-Duty Split AC",
+    "brand": "BlueWind",
+    "category": "Air Conditioner",
+    "price": 43999,
+    "rating": 4.4,
+    "reviews": [
+      "Perfect for large rooms and halls.",
+      "Very stable cooling even in harsh summers."
+    ],
+    "description": "A powerful 1.8 ton split AC for large areas.",
+    "specifications": {
+      "capacity": "1.8 Ton",
+      "type": "Split AC",
+      "energy_rating": "4 Star",
+      "compressor": "Heavy-Duty Inverter",
+      "features": "Dehumidifier, Copper Coil"
+    },
+    "stock": 8,
+    "location": "Ahmedabad Warehouse",
+    "tags": ["heavy-duty", "4-star", "large-room"]
+  },
+  {
+    "_id": "ac009",
+    "name": "AirBliss 1 Ton 5 Star Inverter Split AC",
+    "brand": "AirBliss",
+    "category": "Air Conditioner",
+    "price": 34999,
+    "rating": 4.5,
+    "reviews": [
+      "Extremely quiet and efficient.",
+      "Perfect for small to medium rooms."
+    ],
+    "description": "A silent and efficient AC designed for compact rooms.",
+    "specifications": {
+      "capacity": "1 Ton",
+      "type": "Split AC",
+      "energy_rating": "5 Star",
+      "compressor": "Inverter",
+      "features": "Sleep Mode, Auto Restart"
+    },
+    "stock": 13,
+    "location": "Delhi Warehouse",
+    "tags": ["silent", "inverter", "5-star"]
+  },
+  {
+    "_id": "ac010",
+    "name": "FrostAir 2 Ton Dual Inverter Split AC",
+    "brand": "FrostAir",
+    "category": "Air Conditioner",
+    "price": 55999,
+    "rating": 4.6,
+    "reviews": [
+      "Best cooling for big rooms.",
+      "Energy savings are noticeable."
+    ],
+    "description": "A dual-inverter AC delivering superior cooling and efficiency.",
+    "specifications": {
+      "capacity": "2 Ton",
+      "type": "Split AC",
+      "energy_rating": "5 Star",
+      "compressor": "Dual Inverter",
+      "features": "Anti-Bacterial Filter, 4-Way Swing"
+    },
+    "stock": 6,
+    "location": "Chennai Warehouse",
+    "tags": ["dual-inverter", "premium", "large-capacity"]
+  },
+  {
+    "_id": "ac011",
+    "name": "ChillPoint 1.5 Ton 4 Star WiFi Smart AC",
+    "brand": "ChillPoint",
+    "category": "Air Conditioner",
+    "price": 37999,
+    "rating": 4.3,
+    "reviews": [
+      "Smart control works flawlessly.",
+      "Cools evenly across the room."
+    ],
+    "description": "A smart 1.5 ton AC with WiFi connectivity and AI temperature control.",
+    "specifications": {
+      "capacity": "1.5 Ton",
+      "type": "Split AC",
+      "energy_rating": "4 Star",
+      "compressor": "Smart Inverter",
+      "features": "WiFi, Voice Assistant, Auto Clean"
+    },
+    "stock": 14,
+    "location": "Bangalore Warehouse",
+    "tags": ["smart", "wifi", "4-star"]
+  },
+  {
+    "_id": "ac012",
+    "name": "FreezeMax 1 Ton 3 Star Portable AC",
+    "brand": "FreezeMax",
+    "category": "Air Conditioner",
+    "price": 23999,
+    "rating": 4.0,
+    "reviews": [
+      "Perfect for temporary setups.",
+      "Easy to move between rooms."
+    ],
+    "description": "A portable AC offering flexibility and convenient cooling.",
+    "specifications": {
+      "capacity": "1 Ton",
+      "type": "Portable AC",
+      "energy_rating": "3 Star",
+      "compressor": "Rotary",
+      "features": "Dehumidifier, Auto Swing"
+    },
+    "stock": 10,
+    "location": "Hyderabad Warehouse",
+    "tags": ["portable", "flexible", "compact"]
+  },
+  {
+    "_id": "ac013",
+    "name": "ArcticPro 1.5 Ton 5 Star Copper Split AC",
+    "brand": "ArcticPro",
+    "category": "Air Conditioner",
+    "price": 40999,
+    "rating": 4.4,
+    "reviews": [
+      "Copper condenser cools quickly.",
+      "Very durable build quality."
+    ],
+    "description": "A copper condenser AC ideal for consistent cooling performance.",
+    "specifications": {
+      "capacity": "1.5 Ton",
+      "type": "Split AC",
+      "energy_rating": "5 Star",
+      "compressor": "Inverter",
+      "features": "Copper Coil, Turbo Mode"
+    },
+    "stock": 11,
+    "location": "Mumbai Warehouse",
+    "tags": ["copper-coil", "5-star", "durable"]
+  },
+  {
+    "_id": "ac014",
+    "name": "UltraFreeze 2 Ton 3 Star Heavy Duty AC",
+    "brand": "UltraFreeze",
+    "category": "Air Conditioner",
+    "price": 48999,
+    "rating": 4.2,
+    "reviews": [
+      "Good for halls and offices.",
+      "Strong build quality."
+    ],
+    "description": "A heavy-duty 2 ton AC capable of cooling larger commercial spaces.",
+    "specifications": {
+      "capacity": "2 Ton",
+      "type": "Split AC",
+      "energy_rating": "3 Star",
+      "compressor": "Heavy Duty",
+      "features": "Large Air Throw, Anti Dust Filter"
+    },
+    "stock": 9,
+    "location": "Delhi Warehouse",
+    "tags": ["heavy-duty", "commercial", "large-room"]
+  },
+  {
+    "_id": "ac015",
+    "name": "GlacierAir 1.5 Ton 4 Star Convertible AC",
+    "brand": "GlacierAir",
+    "category": "Air Conditioner",
+    "price": 36999,
+    "rating": 4.3,
+    "reviews": [
+      "Convertible mode saves energy.",
+      "Silent even in turbo mode."
+    ],
+    "description": "A convertible AC offering flexible cooling modes for energy savings.",
+    "specifications": {
+      "capacity": "1.5 Ton",
+      "type": "Split AC",
+      "energy_rating": "4 Star",
+      "compressor": "Convertible Inverter",
+      "features": "AI Mode, Auto Restart"
+    },
+    "stock": 13,
+    "location": "Coimbatore Warehouse",
+    "tags": ["convertible", "ai-mode", "energy-saving"]
+  },
+  {
+    "_id": "ac016",
+    "name": "FrostoCool 1 Ton 5 Star Smart AC",
+    "brand": "FrostoCool",
+    "category": "Air Conditioner",
+    "price": 33999,
+    "rating": 4.4,
+    "reviews": [
+      "Perfect for small bedrooms.",
+      "Smart features work great."
+    ],
+    "description": "A compact 1 ton smart AC with advanced cooling technology.",
+    "specifications": {
+      "capacity": "1 Ton",
+      "type": "Split AC",
+      "energy_rating": "5 Star",
+      "compressor": "AI Inverter",
+      "features": "WiFi, Voice Commands"
+    },
+    "stock": 17,
+    "location": "Pune Warehouse",
+    "tags": ["smart", "compact", "inverter"]
+  },
+  {
+    "_id": "ac017",
+    "name": "IceWave 1.8 Ton 3 Star Window AC",
+    "brand": "IceWave",
+    "category": "Air Conditioner",
+    "price": 28999,
+    "rating": 4.1,
+    "reviews": [
+      "Cools quickly for a window AC.",
+      "Good airflow for large rooms."
+    ],
+    "description": "A powerful window AC ideal for semi-large rooms.",
+    "specifications": {
+      "capacity": "1.8 Ton",
+      "type": "Window AC",
+      "energy_rating": "3 Star",
+      "compressor": "Rotary",
+      "features": "High Airflow, Anti Dust"
+    },
+    "stock": 15,
+    "location": "Jaipur Warehouse",
+    "tags": ["window-ac", "large-room", "high-airflow"]
+  },
+  {
+    "_id": "ac018",
+    "name": "AirPure 1.5 Ton 5 Star Anti-Allergy Split AC",
+    "brand": "AirPure",
+    "category": "Air Conditioner",
+    "price": 39999,
+    "rating": 4.5,
+    "reviews": [
+      "Air feels very clean.",
+      "Cooling is uniform and quick."
+    ],
+    "description": "A clean-air focused AC with anti-allergy and anti-pollution filters.",
+    "specifications": {
+      "capacity": "1.5 Ton",
+      "type": "Split AC",
+      "energy_rating": "5 Star",
+      "compressor": "Inverter",
+      "features": "Anti-Allergy Filter, PM2.5 Purification"
+    },
+    "stock": 10,
+    "location": "Chennai Warehouse",
+    "tags": ["clean-air", "anti-allergy", "premium"]
+  },
+  {
+    "_id": "ac019",
+    "name": "CoolSense 1.2 Ton 4 Star Compact AC",
+    "brand": "CoolSense",
+    "category": "Air Conditioner",
+    "price": 30999,
+    "rating": 4.2,
+    "reviews": [
+      "Compact and efficient.",
+      "Good for kids rooms."
+    ],
+    "description": "A compact AC designed for small and medium bedrooms.",
+    "specifications": {
+      "capacity": "1.2 Ton",
+      "type": "Split AC",
+      "energy_rating": "4 Star",
+      "compressor": "Inverter",
+      "features": "Auto Swing, Sleep Mode"
+    },
+    "stock": 14,
+    "location": "Hyderabad Warehouse",
+    "tags": ["compact", "4-star", "bedroom"]
+  },
+  {
+    "_id": "ac020",
+    "name": "FrostElite 2 Ton 5 Star Premium Split AC",
+    "brand": "FrostElite",
+    "category": "Air Conditioner",
+    "price": 61999,
+    "rating": 4.7,
+    "reviews": [
+      "Truly premium cooling.",
+      "Even works perfectly during peak heat."
+    ],
+    "description": "A top-tier premium AC designed for large spaces and long usage.",
+    "specifications": {
+      "capacity": "2 Ton",
+      "type": "Split AC",
+      "energy_rating": "5 Star",
+      "compressor": "Dual Inverter",
+      "features": "Air Purifier, 4D Airflow"
+    },
+    "stock": 5,
+    "location": "Delhi Warehouse",
+    "tags": ["premium", "dual-inverter", "large-space"]
+  }
+]

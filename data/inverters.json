@@ -1,0 +1,462 @@
+[
+  {
+    "_id": "inv001",
+    "name": "PowerMax 900VA Home Inverter",
+    "brand": "PowerMax",
+    "category": "Inverter",
+    "price": 6999,
+    "rating": 4.3,
+    "reviews": [
+      "Good backup for small homes.",
+      "Silent operation even on heavy load."
+    ],
+    "description": "A reliable 900VA inverter suitable for household appliances and lighting.",
+    "specifications": {
+      "capacity": "900 VA",
+      "battery_support": "12V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "4-5 hours",
+      "approx_load": "3 fans, 3 lights, 1 TV"
+    },
+    "stock": 14,
+    "location": "Mumbai Warehouse",
+    "tags": ["pure-sinewave", "home-use"]
+  },
+  {
+    "_id": "inv002",
+    "name": "LumoTech 1100VA Smart Inverter",
+    "brand": "LumoTech",
+    "category": "Inverter",
+    "price": 8499,
+    "rating": 4.5,
+    "reviews": [
+      "Smart battery charging is impressive.",
+      "Handles fridge load easily."
+    ],
+    "description": "Energy-efficient inverter with advanced PCB protection and overload handling.",
+    "specifications": {
+      "capacity": "1100 VA",
+      "battery_support": "12V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "5-6 hours",
+      "approx_load": "4 fans, 4 lights, 1 TV, 1 fridge"
+    },
+    "stock": 10,
+    "location": "Delhi Warehouse",
+    "tags": ["smart-charging", "energy-efficient"]
+  },
+  {
+    "_id": "inv003",
+    "name": "VoltGuard 1500VA Power Inverter",
+    "brand": "VoltGuard",
+    "category": "Inverter",
+    "price": 11999,
+    "rating": 4.4,
+    "reviews": [
+      "Strong build quality.",
+      "Ideal for full 2BHK usage."
+    ],
+    "description": "High-capacity inverter designed for heavy home loads and long backup.",
+    "specifications": {
+      "capacity": "1500 VA",
+      "battery_support": "24V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "6-8 hours",
+      "approx_load": "6 fans, 6 lights, 1 TV, 1 fridge"
+    },
+    "stock": 12,
+    "location": "Hyderabad Warehouse",
+    "tags": ["high-capacity", "heavy-load"]
+  },
+  {
+    "_id": "inv004",
+    "name": "HomePower 850VA Sine Wave Inverter",
+    "brand": "HomePower",
+    "category": "Inverter",
+    "price": 5999,
+    "rating": 4.2,
+    "reviews": [
+      "Budget friendly and efficient.",
+      "Smooth power output."
+    ],
+    "description": "A cost-effective inverter ideal for small households.",
+    "specifications": {
+      "capacity": "850 VA",
+      "battery_support": "12V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "3-4 hours",
+      "approx_load": "3 fans, 3 lights"
+    },
+    "stock": 18,
+    "location": "Chennai Warehouse",
+    "tags": ["budget", "eco-friendly"]
+  },
+  {
+    "_id": "inv005",
+    "name": "EcoCharge 1250VA Solar Hybrid Inverter",
+    "brand": "EcoCharge",
+    "category": "Inverter",
+    "price": 15999,
+    "rating": 4.6,
+    "reviews": [
+      "Solar charging feature is great.",
+      "Smooth load transition."
+    ],
+    "description": "Hybrid inverter supporting both grid and solar charging.",
+    "specifications": {
+      "capacity": "1250 VA",
+      "battery_support": "12V/24V",
+      "technology": "Solar Hybrid",
+      "backup_time": "5-7 hours",
+      "approx_load": "5 fans, 5 lights, 1 TV"
+    },
+    "stock": 9,
+    "location": "Pune Warehouse",
+    "tags": ["solar", "hybrid"]
+  },
+  {
+    "_id": "inv006",
+    "name": "ThunderBolt 1600VA Heavy Duty Inverter",
+    "brand": "ThunderBolt",
+    "category": "Inverter",
+    "price": 18999,
+    "rating": 4.5,
+    "reviews": [
+      "Handles AC startup load.",
+      "Premium quality components."
+    ],
+    "description": "Heavy-duty inverter suitable for large appliances and high-power usage.",
+    "specifications": {
+      "capacity": "1600 VA",
+      "battery_support": "24V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "7-9 hours",
+      "approx_load": "8 fans, 8 lights, 1 fridge, 1 TV"
+    },
+    "stock": 6,
+    "location": "Bangalore Warehouse",
+    "tags": ["heavy-duty", "premium"]
+  },
+  {
+    "_id": "inv007",
+    "name": "MegaBackup 2000VA Long Backup Inverter",
+    "brand": "MegaBackup",
+    "category": "Inverter",
+    "price": 22999,
+    "rating": 4.7,
+    "reviews": [
+      "Excellent backup time.",
+      "No noise or heating."
+    ],
+    "description": "A powerful 2000VA inverter suitable for full-home power backup.",
+    "specifications": {
+      "capacity": "2000 VA",
+      "battery_support": "24V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "8-10 hours",
+      "approx_load": "full home backup"
+    },
+    "stock": 5,
+    "location": "Jaipur Warehouse",
+    "tags": ["long-backup", "full-home"]
+  },
+  {
+    "_id": "inv008",
+    "name": "LiteSaver 800VA LED Compatible Inverter",
+    "brand": "LiteSaver",
+    "category": "Inverter",
+    "price": 5499,
+    "rating": 4.1,
+    "reviews": [
+      "Perfect for small rooms.",
+      "Great performance for LED loads."
+    ],
+    "description": "Compact inverter optimized for LED and low-power appliances.",
+    "specifications": {
+      "capacity": "800 VA",
+      "battery_support": "12V",
+      "technology": "Modified Sine Wave",
+      "backup_time": "2-3 hours",
+      "approx_load": "2 fans, 2 lights"
+    },
+    "stock": 20,
+    "location": "Kolkata Warehouse",
+    "tags": ["compact", "low-load"]
+  },
+  {
+    "_id": "inv009",
+    "name": "GridPlus 1400VA Smart DSP Inverter",
+    "brand": "GridPlus",
+    "category": "Inverter",
+    "price": 13999,
+    "rating": 4.4,
+    "reviews": [
+      "DSP tech is very stable.",
+      "Good for computers."
+    ],
+    "description": "DSP-based inverter offering stable voltage output ideal for sensitive devices.",
+    "specifications": {
+      "capacity": "1400 VA",
+      "battery_support": "24V",
+      "technology": "DSP Sine Wave",
+      "backup_time": "5-6 hours",
+      "approx_load": "4 fans, 4 lights, 1 desktop, 1 TV"
+    },
+    "stock": 11,
+    "location": "Ahmedabad Warehouse",
+    "tags": ["dsp", "stable-output"]
+  },
+  {
+    "_id": "inv010",
+    "name": "SolarEdge 1000VA Solar Inverter",
+    "brand": "SolarEdge",
+    "category": "Inverter",
+    "price": 17999,
+    "rating": 4.6,
+    "reviews": [
+      "Highly efficient for solar setups.",
+      "Low power loss."
+    ],
+    "description": "A solar-only inverter optimized for rooftop and home solar systems.",
+    "specifications": {
+      "capacity": "1000 VA",
+      "battery_support": "12V",
+      "technology": "Solar Pure Sine Wave",
+      "backup_time": "Depends on sunlight",
+      "approx_load": "4 fans, 4 lights"
+    },
+    "stock": 7,
+    "location": "Delhi Warehouse",
+    "tags": ["solar-only", "eco-friendly"]
+  },
+  {
+    "_id": "inv011",
+    "name": "VoltMaster 1300VA Inverter with AVR",
+    "brand": "VoltMaster",
+    "category": "Inverter",
+    "price": 12999,
+    "rating": 4.3,
+    "reviews": [
+      "AVR feature is very useful.",
+      "Stable performance under voltage fluctuations."
+    ],
+    "description": "Inverter with Automatic Voltage Regulation (AVR) for consistent power supply.",
+    "specifications": {
+      "capacity": "1300 VA",
+      "battery_support": "24V",
+      "technology": "Pure Sine Wave with AVR",
+      "backup_time": "5-7 hours",
+      "approx_load": "5 fans, 5 lights, 1 TV"
+    },
+    "stock": 13,
+    "location": "Chennai Warehouse",
+    "tags": ["avr", "stable-voltage"]
+  },
+  {
+    "_id": "inv012",
+    "name": "SilentWave 900VA Noise-Free Inverter",
+    "brand": "SilentWave",
+    "category": "Inverter",
+    "price": 7499,
+    "rating": 4.2,
+    "reviews": [
+      "Extremely quiet operation.",
+      "Perfect for bedrooms."
+    ],
+    "description": "Inverter designed for silent operation, ideal for noise-sensitive environments.",
+    "specifications": {
+      "capacity": "900 VA",
+      "battery_support": "12V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "4-5 hours",
+      "approx_load": "3 fans, 3 lights, 1 TV"
+    },
+    "stock": 15,
+    "location": "Mumbai Warehouse",
+    "tags": ["silent", "noise-free"]
+  },
+  {
+    "_id": "inv013",
+    "name": "PowerPro 1700VA High Efficiency Inverter",
+    "brand": "PowerPro",
+    "category": "Inverter",
+    "price": 19999,
+    "rating": 4.5,
+    "reviews": [
+      "Very efficient power conversion.",
+      "Great for large households."
+    ],
+    "description": "High-efficiency inverter designed to minimize power loss and maximize backup time.",
+    "specifications": {
+      "capacity": "1700 VA",
+      "battery_support": "24V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "7-9 hours",
+      "approx_load": "7 fans, 7 lights, 1 fridge, 1 TV"
+    },
+    "stock": 8,
+    "location": "Bangalore Warehouse",
+    "tags": ["high-efficiency", "large-household"]
+  },
+  {
+    "_id": "inv014",
+    "name": "EcoWave 950VA Green Inverter",
+    "brand": "EcoWave",
+    "category": "Inverter",
+    "price": 6799,
+    "rating": 4.1,
+    "reviews": [
+      "Environmentally friendly design.",
+      "Good for basic home needs."
+    ],
+    "description": "Eco-friendly inverter with low standby power consumption.",
+    "specifications": {
+      "capacity": "950 VA",
+      "battery_support": "12V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "4-5 hours",
+      "approx_load": "3 fans, 3 lights"
+    },
+    "stock": 17,
+    "location": "Pune Warehouse",
+    "tags": ["eco-friendly", "low-standby"]
+  },
+  {
+    "_id": "inv015",
+    "name": "MaxPower 1800VA Inverter with LCD",
+    "brand": "MaxPower",
+    "category": "Inverter",
+    "price": 20999,
+    "rating": 4.6,
+    "reviews": [
+      "LCD display is very informative.",
+      "Handles high loads effortlessly."
+    ],
+    "description": "Advanced inverter featuring an LCD for real-time monitoring of performance.",
+    "specifications": {
+      "capacity": "1800 VA",
+      "battery_support": "24V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "8-10 hours",
+      "approx_load": "8 fans, 8 lights, 1 fridge, 1 TV"
+    },
+    "stock": 4,
+    "location": "Jaipur Warehouse",
+    "tags": ["lcd-display", "high-load"]
+  },
+  {
+    "_id": "inv016",
+    "name": "BrightHome 1200VA Inverter for LED",
+    "brand": "BrightHome",
+    "category": "Inverter",
+    "price": 8999,
+    "rating": 4.2,
+    "reviews": [
+      "Optimized for LED lighting.",
+      "Compact and efficient."
+    ],
+    "description": "Inverter specifically designed for LED lighting and low-power appliances.",
+    "specifications": {
+      "capacity": "1200 VA",
+      "battery_support": "12V",
+      "technology": "Modified Sine Wave",
+      "backup_time": "4-6 hours",
+      "approx_load": "4 fans, 4 lights"
+    },
+    "stock": 16,
+    "location": "Kolkata Warehouse",
+    "tags": ["led-optimized", "compact"]
+  },
+  {
+    "_id": "inv017",
+    "name": "UltraSafe 1600VA Inverter with Safety Features",
+    "brand": "UltraSafe",
+    "category": "Inverter",
+    "price": 18999,
+    "rating": 4.5,
+    "reviews": [
+      "Multiple safety features give peace of mind.",
+      "Reliable performance."
+    ],
+    "description": "Inverter equipped with advanced safety features like overload, short-circuit, and thermal protection.",
+    "specifications": {
+      "capacity": "1600 VA",
+      "battery_support": "24V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "7-9 hours",
+      "approx_load": "8 fans, 8 lights, 1 fridge, 1 TV"
+    },
+    "stock": 7,
+    "location": "Ahmedabad Warehouse",
+    "tags": ["safety-features", "reliable"]
+  },
+  {
+    "_id": "inv018",
+    "name": "SolarMax 1350VA Inverter with Solar Input",
+    "brand": "SolarMax",
+    "category": "Inverter",
+    "price": 15999,
+    "rating": 4.4,
+    "reviews": [
+      "Great for solar power systems.",
+      "Efficient solar charging."
+    ],
+    "description": "Inverter designed to work seamlessly with solar panels for efficient energy use.",
+    "specifications": {
+      "capacity": "1350 VA",
+      "battery_support": "24V",
+      "technology": "Solar Hybrid",
+      "backup_time": "Depends on sunlight",
+      "approx_load": "5 fans, 5 lights, 1 TV"
+    },
+    "stock": 10,
+    "location": "Delhi Warehouse",
+    "tags": ["solar-input", "hybrid"]
+  },
+  {
+    "_id": "inv019",
+    "name": "PowerElite 1450VA Inverter with Fast Charging",
+    "brand": "PowerElite",
+    "category": "Inverter",
+    "price": 16999,
+    "rating": 4.5,
+    "reviews": [
+      "Fast battery charging is a plus.",
+      "Handles multiple appliances well."
+    ],
+    "description": "Inverter featuring fast battery charging technology for reduced downtime.",
+    "specifications": {
+      "capacity": "1450 VA",
+      "battery_support": "24V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "6-8 hours",
+      "approx_load": "6 fans, 6 lights, 1 fridge, 1 TV"
+    },
+    "stock": 9,
+    "location": "Chennai Warehouse",
+    "tags": ["fast-charging", "multi-appliance"]
+  },
+  {
+    "_id": "inv020",
+    "name": "EcoPower 1000VA Inverter with Low Harmonics",
+    "brand": "EcoPower",
+    "category": "Inverter",
+    "price": 10999,
+    "rating": 4.3,
+    "reviews": [
+      "Low harmonic distortion is noticeable.",
+      "Good for sensitive electronics."
+    ],
+    "description": "Inverter designed to minimize harmonic distortion, ideal for sensitive electronic devices.",
+    "specifications": {
+      "capacity": "1000 VA",
+      "battery_support": "12V",
+      "technology": "Pure Sine Wave",
+      "backup_time": "4-6 hours",
+      "approx_load": "4 fans, 4 lights, 1 TV"
+    },
+    "stock": 14,
+    "location": "Mumbai Warehouse",
+    "tags": ["low-harmonics", "sensitive-electronics"]
+  }
+]

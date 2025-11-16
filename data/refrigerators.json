@@ -1,0 +1,447 @@
+[
+  {
+    "_id": "ref001",
+    "name": "LG 260L Frost-Free Double Door Refrigerator",
+    "brand": "LG",
+    "category": "Refrigerator",
+    "price": 27990,
+    "rating": 4.5,
+    "reviews": [
+      "Very efficient cooling.",
+      "Energy-saving and quiet."
+    ],
+    "description": "Ideal fridge for medium-sized families with frost-free technology.",
+    "specifications": {
+      "capacity": "260 L",
+      "energy_rating": "3 Star",
+      "color": "Shiny Steel",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 12,
+    "location": "Mumbai Warehouse",
+    "tags": ["double-door", "energy-efficient"]
+  },
+  {
+    "_id": "ref002",
+    "name": "Whirlpool 190L Direct-Cool Single Door Refrigerator",
+    "brand": "Whirlpool",
+    "category": "Refrigerator",
+    "price": 14990,
+    "rating": 4.2,
+    "reviews": [
+      "Great single-door performance.",
+      "Keeps vegetables fresh longer."
+    ],
+    "description": "Compact and efficient single-door fridge for small families.",
+    "specifications": {
+      "capacity": "190 L",
+      "energy_rating": "4 Star",
+      "color": "Wine Red",
+      "type": "Single Door",
+      "defrosting": "Manual"
+    },
+    "stock": 15,
+    "location": "Delhi Warehouse",
+    "tags": ["single-door", "compact"]
+  },
+  {
+    "_id": "ref003",
+    "name": "Samsung 314L Frost-Free Double Door Refrigerator",
+    "brand": "Samsung",
+    "category": "Refrigerator",
+    "price": 33990,
+    "rating": 4.6,
+    "reviews": [
+      "Super spacious and sleek.",
+      "Excellent energy efficiency."
+    ],
+    "description": "Premium double-door refrigerator with digital inverter compressor.",
+    "specifications": {
+      "capacity": "314 L",
+      "energy_rating": "3 Star",
+      "color": "Black Inox",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 10,
+    "location": "Chennai Warehouse",
+    "tags": ["premium", "inverter"]
+  },
+  {
+    "_id": "ref004",
+    "name": "Godrej 240L Frost-Free Double Door Refrigerator",
+    "brand": "Godrej",
+    "category": "Refrigerator",
+    "price": 21990,
+    "rating": 4.1,
+    "reviews": [
+      "Sturdy build quality.",
+      "Good cooling distribution."
+    ],
+    "description": "Durable refrigerator designed for efficient cooling.",
+    "specifications": {
+      "capacity": "240 L",
+      "energy_rating": "2 Star",
+      "color": "Graphite Grey",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 8,
+    "location": "Pune Warehouse",
+    "tags": ["family", "double-door"]
+  },
+  {
+    "_id": "ref005",
+    "name": "Haier 195L Direct Cool Single Door Refrigerator",
+    "brand": "Haier",
+    "category": "Refrigerator",
+    "price": 13490,
+    "rating": 4.3,
+    "reviews": [
+      "Value for money.",
+      "Fast icing technology works great."
+    ],
+    "description": "Affordable and compact single-door refrigerator.",
+    "specifications": {
+      "capacity": "195 L",
+      "energy_rating": "4 Star",
+      "color": "Blue Steel",
+      "type": "Single Door",
+      "defrosting": "Manual"
+    },
+    "stock": 14,
+    "location": "Kolkata Warehouse",
+    "tags": ["budget", "single-door"]
+  },
+  {
+    "_id": "ref006",
+    "name": "Bosch 347L Frost-Free Double Door Refrigerator",
+    "brand": "Bosch",
+    "category": "Refrigerator",
+    "price": 44990,
+    "rating": 4.7,
+        "reviews": [
+      "Super silent refrigerator.",
+      "Top-notch build and finish."
+    ],
+    "description": "European-style refrigerator with advanced cooling circulation.",
+    "specifications": {
+      "capacity": "347 L",
+      "energy_rating": "3 Star",
+      "color": "Platinum Silver",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 6,
+    "location": "Bangalore Warehouse",
+    "tags": ["premium", "double-door"]
+  },
+  {
+    "_id": "ref007",
+    "name": "Panasonic 307L Frost-Free Double Door Refrigerator",
+    "brand": "Panasonic",
+    "category": "Refrigerator",
+    "price": 30990,
+    "rating": 4.4,
+    "reviews": [
+      "Silent and efficient.",
+      "Good shelf design."
+    ],
+    "description": "Energy-efficient fridge with uniform cooling.",
+    "specifications": {
+      "capacity": "307 L",
+      "energy_rating": "2 Star",
+      "color": "Dark Steel",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 11,
+    "location": "Ahmedabad Warehouse",
+    "tags": ["inverter", "double-door"]
+  },
+  {
+    "_id": "ref008",
+    "name": "LG 190L Direct Cool Single Door Refrigerator",
+    "brand": "LG",
+    "category": "Refrigerator",
+    "price": 15990,
+    "rating": 4.2,
+    "reviews": [
+      "Perfect for bachelors.",
+      "Freezer quality is great."
+    ],
+    "description": "Single-door fridge with smart inverter compressor.",
+    "specifications": {
+      "capacity": "190 L",
+      "energy_rating": "5 Star",
+      "color": "Scarlet Bloom",
+      "type": "Single Door",
+      "defrosting": "Manual"
+    },
+    "stock": 20,
+    "location": "Lucknow Warehouse",
+    "tags": ["single-door", "energy-saving"]
+  },
+  {
+    "_id": "ref009",
+    "name": "Whirlpool 292L Frost-Free Double Door Refrigerator",
+    "brand": "Whirlpool",
+    "category": "Refrigerator",
+    "price": 28990,
+    "rating": 4.3,
+    "reviews": [
+      "Fast cooling.",
+      "Great humidity control."
+    ],
+    "description": "Double-door refrigerator with adaptive intelligence technology.",
+    "specifications": {
+      "capacity": "292 L",
+      "energy_rating": "3 Star",
+      "color": "Alpha Steel",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 9,
+    "location": "Hyderabad Warehouse",
+    "tags": ["double-door", "adaptive-cooling"]
+  },
+  {
+    "_id": "ref010",
+    "name": "Haier 258L Frost-Free Double Door Refrigerator",
+    "brand": "Haier",
+    "category": "Refrigerator",
+    "price": 23990,
+    "rating": 4.4,
+    "reviews": [
+      "1-hour icing technology is amazing.",
+      "Spacious freezer."
+    ],
+    "description": "Good all-rounder fridge with balanced cooling.",
+    "specifications": {
+      "capacity": "258 L",
+      "energy_rating": "2 Star",
+      "color": "Moon Silver",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 13,
+    "location": "Jaipur Warehouse",
+    "tags": ["double-door", "fast-icing"]
+  },
+  {
+    "_id": "ref011",
+    "name": "Samsung 236L Frost-Free Double Door Refrigerator",
+    "brand": "Samsung",
+    "category": "Refrigerator",
+    "price": 24990,
+    "rating": 4.4,
+    "reviews": [
+      "Excellent cooling and silent operation.",
+      "Spacious vegetable box."
+    ],
+    "description": "Frost-free refrigerator suitable for families of 3–4 members.",
+    "specifications": {
+      "capacity": "236 L",
+      "energy_rating": "2 Star",
+      "color": "Silver",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 9,
+    "location": "Hyderabad Warehouse",
+    "tags": ["double-door", "auto-defrost"]
+  },
+  {
+    "_id": "ref012",
+    "name": "LG 190L Direct-Cool Single Door Refrigerator",
+    "brand": "LG",
+    "category": "Refrigerator",
+    "price": 15490,
+    "rating": 4.2,
+    "reviews": [
+      "Best for bachelors and couples.",
+      "Stylish design."
+    ],
+    "description": "A compact refrigerator with toughened glass shelves.",
+    "specifications": {
+      "capacity": "190 L",
+      "energy_rating": "4 Star",
+      "color": "Blue",
+      "type": "Single Door",
+      "defrosting": "Manual"
+    },
+    "stock": 14,
+    "location": "Bangalore Warehouse",
+    "tags": ["single-door", "energy-efficient"]
+  },
+  {
+    "_id": "ref013",
+    "name": "Haier 258L Frost-Free Double Door Refrigerator",
+    "brand": "Haier",
+    "category": "Refrigerator",
+    "price": 26990,
+    "rating": 4.3,
+    "reviews": [
+      "Fast ice making feature is great.",
+      "Good build quality."
+    ],
+    "description": "A powerful frost-free refrigerator with toughened shelves.",
+    "specifications": {
+      "capacity": "258 L",
+      "energy_rating": "3 Star",
+      "color": "Red",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 8,
+    "location": "Pune Warehouse",
+    "tags": ["double-door", "mid-range"]
+  },
+  {
+    "_id": "ref014",
+    "name": "Godrej 343L Frost-Free Refrigerator",
+    "brand": "Godrej",
+    "category": "Refrigerator",
+    "price": 32990,
+    "rating": 4.1,
+    "reviews": [
+      "Large capacity at a good price.",
+      "Good for joint families."
+    ],
+    "description": "A high-capacity fridge with multi-airflow cooling.",
+    "specifications": {
+      "capacity": "343 L",
+      "energy_rating": "2 Star",
+      "color": "Steel",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 5,
+    "location": "Ahmedabad Warehouse",
+    "tags": ["family-size", "double-door"]
+  },
+  {
+    "_id": "ref015",
+    "name": "Panasonic 260L Frost-Free Refrigerator",
+    "brand": "Panasonic",
+    "category": "Refrigerator",
+    "price": 27990,
+    "rating": 4.2,
+    "reviews": [
+      "Low power consumption.",
+      "Silent compressor."
+    ],
+    "description": "Energy-efficient double door refrigerator with deodorizer.",
+    "specifications": {
+      "capacity": "260 L",
+      "energy_rating": "3 Star",
+      "color": "Grey",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 7,
+    "location": "Delhi Warehouse",
+    "tags": ["energy-efficient", "double-door"]
+  },
+  {
+    "_id": "ref016",
+    "name": "Bosch 347L Frost-Free Refrigerator",
+    "brand": "Bosch",
+    "category": "Refrigerator",
+    "price": 45990,
+    "rating": 4.5,
+    "reviews": ["Premium build quality.", "Excellent cooling consistency."],
+    "description": "A premium refrigerator with VitaFresh technology.",
+    "specifications": {
+      "capacity": "347 L",
+      "energy_rating": "3 Star",
+      "color": "Black",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 4,
+    "location": "Mumbai Warehouse",
+    "tags": ["premium", "large-capacity"]
+  },
+  {
+    "_id": "ref017",
+    "name": "Whirlpool 265L Frost-Free Refrigerator",
+    "brand": "Whirlpool",
+    "category": "Refrigerator",
+    "price": 25990,
+    "rating": 4.1,
+    "reviews": ["Great warranty.", "Good for a family of 4."],
+    "description": "Frost-free refrigerator with adaptive intelligence technology.",
+    "specifications": {
+      "capacity": "265 L",
+      "energy_rating": "3 Star",
+      "color": "Grey",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 10,
+    "location": "Coimbatore Warehouse",
+    "tags": ["mid-range", "double-door"]
+  },
+  {
+    "_id": "ref018",
+    "name": "Hitachi 451L Side-by-Side Refrigerator",
+    "brand": "Hitachi",
+    "category": "Refrigerator",
+    "price": 79990,
+    "rating": 4.6,
+    "reviews": ["Premium feel.", "Very spacious design."],
+    "description": "A luxury side-by-side refrigerator with inverter compressor.",
+    "specifications": {
+      "capacity": "451 L",
+      "energy_rating": "2 Star",
+      "color": "Silver",
+      "type": "Side-by-Side",
+      "defrosting": "Auto"
+    },
+    "stock": 3,
+    "location": "Delhi Warehouse",
+    "tags": ["premium", "side-by-side"]
+  },
+  {
+    "_id": "ref019",
+    "name": "Samsung 700L Side-by-Side Smart Refrigerator",
+    "brand": "Samsung",
+    "category": "Refrigerator",
+    "price": 114999,
+    "rating": 4.7,
+    "reviews": ["Smart features are fantastic.", "Huge capacity."],
+    "description": "A high-end IoT-enabled refrigerator with touch display.",
+    "specifications": {
+      "capacity": "700 L",
+      "energy_rating": "3 Star",
+      "color": "Platinum",
+      "type": "Side-by-Side",
+      "defrosting": "Auto"
+    },
+    "stock": 2,
+    "location": "Mumbai Warehouse",
+    "tags": ["smart-fridge", "premium"]
+  },
+  {
+    "_id": "ref020",
+    "name": "LG 420L Convertible Refrigerator",
+    "brand": "LG",
+    "category": "Refrigerator",
+    "price": 52990,
+    "rating": 4.4,
+    "reviews": ["Convertible freezer is useful.", "Silent and efficient."],
+    "description": "A convertible refrigerator with multiple cooling modes.",
+    "specifications": {
+      "capacity": "420 L",
+      "energy_rating": "3 Star",
+      "color": "Matte Black",
+      "type": "Double Door",
+      "defrosting": "Auto"
+    },
+    "stock": 6,
+    "location": "Chennai Warehouse",
+    "tags": ["convertible", "large-capacity"]
+  }
+]

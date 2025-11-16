@@ -1,0 +1,462 @@
+[  
+  {
+    "_id": "tv001",
+    "name": "NovaVision 43\" Full HD Smart LED TV",
+    "brand": "NovaVision",
+    "category": "Television",
+    "price": 22999,
+    "rating": 4.3,
+    "reviews": [
+      "Picture quality is very good for the price.",
+      "Smart UI is smooth and easy to use."
+    ],
+    "description": "A 43-inch Full HD smart LED TV offering crisp visuals and smooth streaming.",
+    "specifications": {
+      "display_size": "43 inch",
+      "resolution": "1920 x 1080",
+      "panel_type": "LED",
+      "os": "Android TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 18,
+    "location": "Chennai Warehouse",
+    "tags": ["full-hd", "budget-tv", "smart-tv"]
+  },
+  {
+    "_id": "tv002",
+    "name": "BrightScreen 55\" 4K Ultra HD HDR TV",
+    "brand": "BrightScreen",
+    "category": "Television",
+    "price": 38999,
+    "rating": 4.5,
+    "reviews": [
+      "Excellent 4K clarity and punchy colours.",
+      "HDR performance is impressive at this price."
+    ],
+    "description": "A 55-inch 4K HDR TV built for immersive cinematic viewing.",
+    "specifications": {
+      "display_size": "55 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "LED",
+      "os": "Google TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 14,
+    "location": "Hyderabad Warehouse",
+    "tags": ["4k", "hdr", "value-for-money"]
+  },
+  {
+    "_id": "tv003",
+    "name": "CineMax 32\" Android LED Smart TV",
+    "brand": "CineMax",
+    "category": "Television",
+    "price": 13999,
+    "rating": 4.1,
+    "reviews": [
+      "Compact and great for small rooms.",
+      "Android TV works without lag."
+    ],
+    "description": "A 32-inch Android smart TV perfect for bedrooms and compact spaces.",
+    "specifications": {
+      "display_size": "32 inch",
+      "resolution": "1366 x 768",
+      "panel_type": "LED",
+      "os": "Android TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 22,
+    "location": "Mumbai Warehouse",
+    "tags": ["hd-ready", "compact", "smart-tv"]
+  },
+  {
+    "_id": "tv004",
+    "name": "UltraView 65\" QLED 4K Smart TV",
+    "brand": "UltraView",
+    "category": "Television",
+    "price": 67999,
+    "rating": 4.7,
+    "reviews": [
+      "QLED colours are stunning.",
+      "Super sharp and vibrant picture quality."
+    ],
+    "description": "A premium 65-inch QLED TV with deep contrast and vibrant colours.",
+    "specifications": {
+      "display_size": "65 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "QLED",
+      "os": "Google TV",
+      "refresh_rate": "120 Hz"
+    },
+    "stock": 10,
+    "location": "Bangalore Warehouse",
+    "tags": ["qled", "4k", "premium"]
+  },
+  {
+    "_id": "tv005",
+    "name": "PixelSharp 40\" Frameless Smart TV",
+    "brand": "PixelSharp",
+    "category": "Television",
+    "price": 24999,
+    "rating": 4.2,
+    "reviews": [
+      "Frameless design looks premium.",
+      "Sound quality could be better."
+    ],
+    "description": "A frameless 40-inch smart TV offering modern aesthetics and sharp visuals.",
+    "specifications": {
+      "display_size": "40 inch",
+      "resolution": "1920 x 1080",
+      "panel_type": "LED",
+      "os": "Android TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 17,
+    "location": "Delhi Warehouse",
+    "tags": ["frameless", "sleek-design", "smart-tv"]
+  },
+  {
+    "_id": "tv006",
+    "name": "XWave 75\" 8K Ultra HD TV",
+    "brand": "XWave",
+    "category": "Television",
+    "price": 189999,
+    "rating": 4.8,
+    "reviews": [
+      "Exceptional clarity and premium feel.",
+      "8K content looks unbelievable."
+    ],
+    "description": "A massive 75-inch 8K TV built for ultra-premium viewing experiences.",
+    "specifications": {
+      "display_size": "75 inch",
+      "resolution": "7680 x 4320",
+      "panel_type": "LED",
+      "os": "Google TV",
+      "refresh_rate": "120 Hz"
+    },
+    "stock": 5,
+    "location": "Bangalore Warehouse",
+    "tags": ["8k", "premium", "large-screen"]
+  },
+  {
+    "_id": "tv007",
+    "name": "PrimeOne 50\" Dolby Audio Smart TV",
+    "brand": "PrimeOne",
+    "category": "Television",
+    "price": 31999,
+    "rating": 4.4,
+    "reviews": [
+      "Dolby audio enhances movie experience.",
+      "Smooth connectivity and UI."
+    ],
+    "description": "A 50-inch smart TV with rich sound powered by Dolby audio.",
+    "specifications": {
+      "display_size": "50 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "LED",
+      "os": "Fire TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 15,
+    "location": "Chennai Warehouse",
+    "tags": ["dolby-audio", "4k", "smart-tv"]
+  },
+  {
+    "_id": "tv008",
+    "name": "LuxView 58\" 4K UHD Fire TV",
+    "brand": "LuxView",
+    "category": "Television",
+    "price": 42999,
+    "rating": 4.5,
+    "reviews": [
+      "Fire TV OS is very smooth.",
+      "Good brightness and sharpness."
+    ],
+    "description": "A 58-inch 4K UHD TV powered by Fire TV for smooth content streaming.",
+    "specifications": {
+      "display_size": "58 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "LED",
+      "os": "Fire TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 13,
+    "location": "Pune Warehouse",
+    "tags": ["4k", "fire-tv", "smart-tv"]
+  },
+  {
+    "_id": "tv009",
+    "name": "RealTone 48\" OLED Smart Television",
+    "brand": "RealTone",
+    "category": "Television",
+    "price": 74999,
+    "rating": 4.7,
+    "reviews": [
+      "OLED blacks are deep and perfect.",
+      "Picture quality is flagship-level."
+    ],
+    "description": "A 48-inch OLED TV offering exceptional picture depth and contrast.",
+    "specifications": {
+      "display_size": "48 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "OLED",
+      "os": "Google TV",
+      "refresh_rate": "120 Hz"
+    },
+    "stock": 8,
+    "location": "Mumbai Warehouse",
+    "tags": ["oled", "4k", "premium"]
+  },
+  {
+    "_id": "tv010",
+    "name": "MegaScreen 85\" Premium UHD Smart TV",
+    "brand": "MegaScreen",
+    "category": "Television",
+    "price": 229999,
+    "rating": 4.8,
+    "reviews": [
+      "Huge display with amazing clarity.",
+      "Ideal for home theater experience."
+    ],
+    "description": "A massive 85-inch premium UHD TV designed for home theatre enthusiasts.",
+    "specifications": {
+      "display_size": "85 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "LED",
+      "os": "Google TV",
+      "refresh_rate": "120 Hz"
+    },
+    "stock": 4,
+    "location": "Hyderabad Warehouse",
+    "tags": ["large-screen", "premium", "4k"]
+  },
+  {
+    "_id": "tv011",
+    "name": "VisionPro 43\" 4K UHD Smart Android TV",
+    "brand": "VisionPro",
+    "category": "Television",
+    "price": 27999,
+    "rating": 4.4,
+    "reviews": [
+      "Sharp 4K quality at a great price.",
+      "Android TV works smooth without lag."
+    ],
+    "description": "A 43-inch 4K Ultra HD Android TV offering rich colours and fluid performance.",
+    "specifications": {
+      "display_size": "43 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "LED",
+      "os": "Android TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 15,
+    "location": "Chennai Warehouse",
+    "tags": ["4k", "smart-tv", "android-tv"]
+  },
+  {
+    "_id": "tv012",
+    "name": "CrystalView 55\" Crystal UHD HDR10 Smart TV",
+    "brand": "CrystalView",
+    "category": "Television",
+    "price": 40999,
+    "rating": 4.5,
+    "reviews": [
+      "Colours look very natural with HDR10.",
+      "Build quality feels premium."
+    ],
+    "description": "A 55-inch Crystal UHD TV featuring HDR10 support for enhanced visuals.",
+    "specifications": {
+      "display_size": "55 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "LED",
+      "os": "Google TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 12,
+    "location": "Hyderabad Warehouse",
+    "tags": ["uhd", "hdr10", "smart-tv"]
+  },
+  {
+    "_id": "tv013",
+    "name": "MaxLite 65\" Frameless 4K QLED Smart TV",
+    "brand": "MaxLite",
+    "category": "Television",
+    "price": 72999,
+    "rating": 4.7,
+    "reviews": [
+      "Frameless design looks absolutely stunning.",
+      "QLED panel delivers excellent brightness."
+    ],
+    "description": "A premium 65-inch QLED TV with a modern frameless design and lifelike colour output.",
+    "specifications": {
+      "display_size": "65 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "QLED",
+      "os": "Google TV",
+      "refresh_rate": "120 Hz"
+    },
+    "stock": 9,
+    "location": "Mumbai Warehouse",
+    "tags": ["qled", "frameless", "premium"]
+  },
+  {
+    "_id": "tv014",
+    "name": "HomeTheatreX 50\" Dolby Vision Smart TV",
+    "brand": "HomeTheatreX",
+    "category": "Television",
+    "price": 34999,
+    "rating": 4.4,
+    "reviews": [
+      "Dolby Vision makes movies really vivid.",
+      "Sound quality is surprisingly good."
+    ],
+    "description": "A 50-inch Dolby Vision-enabled smart TV designed for deep contrast and cinematic visuals.",
+    "specifications": {
+      "display_size": "50 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "LED",
+      "os": "Android TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 16,
+    "location": "Pune Warehouse",
+    "tags": ["dolby-vision", "4k", "smart-tv"]
+  },
+  {
+    "_id": "tv015",
+    "name": "UltraPixel 32\" HD Ready Smart LED TV",
+    "brand": "UltraPixel",
+    "category": "Television",
+    "price": 11999,
+    "rating": 4.1,
+    "reviews": [
+      "Perfect for small rooms.",
+      "Value for money and smooth OS."
+    ],
+    "description": "A compact 32-inch HD Ready smart TV ideal for bedrooms and compact spaces.",
+    "specifications": {
+      "display_size": "32 inch",
+      "resolution": "1366 x 768",
+      "panel_type": "LED",
+      "os": "Android TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 25,
+    "location": "Delhi Warehouse",
+    "tags": ["hd-ready", "compact", "smart-tv"]
+  },
+  {
+    "_id": "tv016",
+    "name": "BrightView 75\" Mini-LED 4K Ultra HD TV",
+    "brand": "BrightView",
+    "category": "Television",
+    "price": 154999,
+    "rating": 4.8,
+    "reviews": [
+      "Mini-LED brightness is incredible.",
+      "Perfect for home theatre setups."
+    ],
+    "description": "A large 75-inch Mini-LED 4K TV with enhanced brightness and superior contrast.",
+    "specifications": {
+      "display_size": "75 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "Mini-LED",
+      "os": "Google TV",
+      "refresh_rate": "120 Hz"
+    },
+    "stock": 6,
+    "location": "Bangalore Warehouse",
+    "tags": ["mini-led", "premium", "large-screen"]
+  },
+  {
+    "_id": "tv017",
+    "name": "SpectraOne 49\" FireOS Smart LED TV",
+    "brand": "SpectraOne",
+    "category": "Television",
+    "price": 27999,
+    "rating": 4.3,
+    "reviews": [
+      "FireOS is very user-friendly.",
+      "Good balance of price and features."
+    ],
+    "description": "A 49-inch FireOS-powered smart LED TV with smooth performance and vivid colours.",
+    "specifications": {
+      "display_size": "49 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "LED",
+      "os": "Fire TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 14,
+    "location": "Chennai Warehouse",
+    "tags": ["fire-tv", "smart-tv", "4k"]
+  },
+  {
+    "_id": "tv018",
+    "name": "VividLine 60\" HDR10+ Smart 4K TV",
+    "brand": "VividLine",
+    "category": "Television",
+    "price": 48999,
+    "rating": 4.5,
+    "reviews": [
+      "HDR10+ looks really vibrant.",
+      "Smooth 4K playback and good sound."
+    ],
+    "description": "A 60-inch HDR10+ enabled 4K smart TV delivering enhanced brightness and colour accuracy.",
+    "specifications": {
+      "display_size": "60 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "LED",
+      "os": "Google TV",
+      "refresh_rate": "60 Hz"
+    },
+    "stock": 11,
+    "location": "Hyderabad Warehouse",
+    "tags": ["hdr10+", "4k", "smart-tv"]
+  },
+  {
+    "_id": "tv019",
+    "name": "OptiScreen 70\" AI-Powered Smart UHD TV",
+    "brand": "OptiScreen",
+    "category": "Television",
+    "price": 96999,
+    "rating": 4.6,
+    "reviews": [
+      "AI upscaling works surprisingly well.",
+      "Ultra smooth motion handling."
+    ],
+    "description": "A 70-inch UHD TV with AI-powered upscaling and advanced picture optimization.",
+    "specifications": {
+      "display_size": "70 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "LED",
+      "os": "Google TV",
+      "refresh_rate": "120 Hz"
+    },
+    "stock": 7,
+    "location": "Mumbai Warehouse",
+    "tags": ["ai-powered", "4k", "uhd"]
+  },
+  {
+    "_id": "tv020",
+    "name": "PixelWave 85\" IMAX-Enhanced Premium Smart TV",
+    "brand": "PixelWave",
+    "category": "Television",
+    "price": 259999,
+    "rating": 4.9,
+    "reviews": [
+      "IMAX mode is absolutely stunning.",
+      "One of the best TVs for home theatres."
+    ],
+    "description": "An ultra-premium 85-inch IMAX-enhanced smart TV built for cinematic viewing at home.",
+    "specifications": {
+      "display_size": "85 inch",
+      "resolution": "3840 x 2160",
+      "panel_type": "Mini-LED",
+      "os": "Google TV",
+      "refresh_rate": "120 Hz"
+    },
+    "stock": 3,
+    "location": "Bangalore Warehouse",
+    "tags": ["imax", "premium", "large-screen"]
+  }
+]

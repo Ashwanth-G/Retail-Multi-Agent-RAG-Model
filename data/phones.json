@@ -1,0 +1,692 @@
+[
+  {
+    "_id": "ph001",
+    "name": "Samsung Galaxy M14 5G",
+    "brand": "Samsung",
+    "category": "Mobile",
+    "price": 12999,
+    "rating": 4.4,
+    "reviews": [
+      "Battery backup is excellent for daily use.",
+      "Camera quality is good in daylight but average in low light."
+    ],
+    "description": "A budget-friendly 5G smartphone with strong battery life and smooth performance.",
+    "specifications": {
+      "ram": "4 GB",
+      "storage": "128 GB",
+      "battery": "6000 mAh",
+      "processor": "Exynos 1330",
+      "display": "6.6-inch FHD+"
+    },
+    "stock": 34,
+    "location": "Chennai Warehouse",
+    "tags": ["5g", "budget", "long-battery"]
+  },
+  {
+    "_id": "ph002",
+    "name": "Redmi Note 12 5G",
+    "brand": "Xiaomi",
+    "category": "Mobile",
+    "price": 14999,
+    "rating": 4.2,
+    "reviews": [
+      "Display quality is crisp and vibrant.",
+      "Performance drops slightly during heavy gaming."
+    ],
+    "description": "A stylish 5G smartphone with AMOLED display and smooth multitasking.",
+    "specifications": {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Snapdragon 4 Gen 1",
+      "display": "6.67-inch AMOLED"
+    },
+    "stock": 28,
+    "location": "Bangalore Warehouse",
+    "tags": ["amoled", "5g", "midrange"]
+  },
+  {
+    "_id": "ph003",
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "category": "Mobile",
+    "price": 52999,
+    "rating": 4.8,
+    "reviews": [
+      "Camera quality is outstanding at night.",
+      "Battery lasts an entire day with heavy use."
+    ],
+    "description": "A flagship-level iPhone with excellent camera, battery, and performance.",
+    "specifications": {
+      "ram": "4 GB",
+      "storage": "128 GB",
+      "battery": "3227 mAh",
+      "processor": "A15 Bionic",
+      "display": "6.1-inch Super Retina XDR"
+    },
+    "stock": 15,
+    "location": "Mumbai Warehouse",
+    "tags": ["flagship", "premium", "ios"]
+  },
+  {
+    "_id": "ph004",
+    "name": "OnePlus Nord CE 3 Lite 5G",
+    "brand": "OnePlus",
+    "category": "Mobile",
+    "price": 19999,
+    "rating": 4.3,
+    "reviews": [
+      "Fast charging is a lifesaver.",
+      "Overall performance is smooth for daily tasks."
+    ],
+    "description": "A mid-range 5G smartphone with fast charging and solid performance.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Snapdragon 695",
+      "display": "6.72-inch FHD+"
+    },
+    "stock": 22,
+    "location": "Delhi Warehouse",
+    "tags": ["5g", "fast-charging", "midrange"]
+  },
+  {
+    "_id": "ph005",
+    "name": "Realme Narzo 60 5G",
+    "brand": "Realme",
+    "category": "Mobile",
+    "price": 11999,
+    "rating": 4.1,
+    "reviews": [
+      "Great value for money with decent performance.",
+      "Camera is average but works well in good lighting."
+    ],
+    "description": "An affordable 5G smartphone with a large display and good battery life.",
+    "specifications": {
+      "ram": "4 GB",
+      "storage": "64 GB",
+      "battery": "5000 mAh",
+      "processor": "MediaTek Helio G96",
+      "display": "6.5-inch FHD+"
+    },
+    "stock": 40,
+    "location": "Hyderabad Warehouse",
+    "tags": ["affordable", "5g", "large-display"]
+  },
+  {
+    "_id": "ph006",
+    "name": "Samsung Galaxy A14 4G",
+    "brand": "Samsung",
+    "category": "Mobile",
+    "price": 11999,
+    "rating": 4.2,
+    "reviews": [
+      "Smooth UI and good battery backup.",
+      "Camera is average in indoor lighting."
+    ],
+    "description": "A reliable 4G handset with strong battery life and a clean Samsung UI.",
+    "specifications": {
+      "ram": "4 GB",
+      "storage": "64 GB",
+      "battery": "5000 mAh",
+      "processor": "Helio G80",
+      "display": "6.6-inch FHD+"
+    },
+    "stock": 37,
+    "location": "Chennai Warehouse",
+    "tags": ["budget", "samsung-ui", "4g"]
+  },
+  {
+    "_id": "ph007",
+    "name": "Vivo Y27",
+    "brand": "Vivo",
+    "category": "Mobile",
+    "price": 13999,
+    "rating": 4.3,
+    "reviews": [
+      "Looks premium and lightweight.",
+      "Charging speed could be faster."
+    ],
+    "description": "A sleek mid-range phone with stylish design and smooth daily performance.",
+    "specifications": {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Helio G85",
+      "display": "6.64-inch FHD+"
+    },
+    "stock": 26,
+    "location": "Hyderabad Warehouse",
+    "tags": ["sleek", "lightweight", "daily-use"]
+  },
+  {
+    "_id": "ph008",
+    "name": "Motorola Moto G31",
+    "brand": "Motorola",
+    "category": "Mobile",
+    "price": 10999,
+    "rating": 4.0,
+    "reviews": [
+      "Good display quality for the price.",
+      "Performance is decent for everyday tasks."
+    ],
+    "description": "An affordable smartphone with a vibrant display and reliable performance.",
+    "specifications": {
+      "ram": "4 GB",
+      "storage": "64 GB",
+      "battery": "5000 mAh",
+      "processor": "Helio G85",
+      "display": "6.4-inch AMOLED"
+    },
+    "stock": 30,
+    "location": "Bangalore Warehouse",
+    "tags": ["affordable", "amoled", "reliable"]
+  },
+  {
+    "_id": "ph009",
+    "name": "Infinix Hot 12i",
+    "brand": "Infinix",
+    "category": "Mobile",
+    "price": 8999,
+    "rating": 3.9,
+    "reviews": [
+      "Great budget phone with decent features.",
+      "Camera quality is average but acceptable for the price."
+    ],
+    "description": "A budget-friendly smartphone with a large display and good battery life.",
+    "specifications": {
+      "ram": "4 GB",
+      "storage": "64 GB",
+      "battery": "5000 mAh",
+      "processor": "Helio G25",
+      "display": "6.82-inch HD+"
+    },
+    "stock": 45,
+    "location": "Delhi Warehouse",
+    "tags": ["budget", "large-display", "value-for-money"]
+  },
+  {
+    "_id": "ph010",
+    "name": "Apple iPhone SE (2022)",
+    "brand": "Apple",
+    "category": "Mobile",
+    "price": 29999,
+    "rating": 4.6,
+    "reviews": [
+      "Compact design with powerful performance.",
+      "Battery life could be better."
+    ],
+    "description": "A compact and affordable iPhone with the powerful A15 Bionic chip.",
+    "specifications": {
+      "ram": "3 GB",
+      "storage": "64 GB",
+      "battery": "2018 mAh",
+      "processor": "A15 Bionic",
+      "display": "4.7-inch Retina HD"
+    },
+    "stock": 18,
+    "location": "Mumbai Warehouse",
+    "tags": ["compact", "powerful", "ios"]
+  }
+  ,{
+    "_id": "ph011",
+    "name": "Google Pixel 6a",
+    "brand": "Google",
+    "category": "Mobile",
+    "price": 34999,
+    "rating": 4.5,
+    "reviews": [
+      "Excellent camera performance for the price.",
+      "Clean and fast Android experience."
+    ],
+    "description": "A mid-range smartphone with exceptional camera capabilities and pure Android experience.",
+    "specifications": {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "4410 mAh",
+      "processor": "Google Tensor",
+      "display": "6.1-inch OLED"
+    },
+    "stock": 20,
+    "location": "Bangalore Warehouse",
+    "tags": ["camera", "pure-android", "midrange"]
+  },
+  {
+    "_id": "ph012",
+    "name": "iPhone 14",
+    "brand": "Apple",
+    "category": "Mobile",
+    "price": 67999,
+    "rating": 4.9,
+    "reviews": [
+      "Outstanding camera and performance.",
+      "Battery life improved from previous models."
+    ],
+    "description": "Apple’s highly refined smartphone with top-tier performance and camera.",
+    "specifications": {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "3279 mAh",
+      "processor": "A15 Bionic",
+      "display": "6.1-inch Super Retina XDR"
+    },
+    "stock": 18,
+    "location": "Bangalore Warehouse",
+    "tags": ["premium", "ios", "camera"]
+  },
+  {
+    "_id": "ph013",
+    "name": "Motorola G54 5G",
+    "brand": "Motorola",
+    "category": "Mobile",
+    "price": 13999,
+    "rating": 4.5,
+    "reviews": [
+      "Clean UI and zero bloatware.",
+      "Camera is good for the price."
+    ],
+    "description": "A clean Android 5G smartphone with smooth performance.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "6000 mAh",
+      "processor": "Dimensity 7020",
+      "display": "6.5-inch FHD+ 120Hz"
+    },
+    "stock": 33,
+    "location": "Chennai Warehouse",
+    "tags": ["5g", "clean-ui", "battery"]
+  },
+  {
+    "_id": "ph014",
+    "name": "Infinix Hot 30",
+    "brand": "Infinix",
+    "category": "Mobile",
+    "price": 9999,
+    "rating": 4.0,
+    "reviews": [
+      "Great performance for gaming at this price.",
+      "Display brightness is a bit low outdoors."
+    ],
+    "description": "A gaming-oriented budget smartphone with impressive performance.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Helio G88",
+      "display": "6.78-inch FHD+"
+    },
+    "stock": 52,
+    "location": "Delhi Warehouse",
+    "tags": ["gaming", "budget", "performance"]
+  },
+  {
+    "_id": "ph015",
+    "name": "Tecno Spark 10 Pro",
+    "brand": "Tecno",
+    "category": "Mobile",
+    "price": 11999,
+    "rating": 4.1,
+    "reviews": [
+      "Selfie camera is excellent.",
+      "UI feels a bit heavy sometimes."
+    ],
+    "description": "A budget photography smartphone with a focus on selfies.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Helio G88",
+      "display": "6.8-inch FHD+"
+    },
+    "stock": 29,
+    "location": "Hyderabad Warehouse",
+    "tags": ["selfie", "budget", "photography"]
+  },
+  {
+    "_id": "ph016",
+    "name": "Samsung Galaxy A34 5G",
+    "brand": "Samsung",
+    "category": "Mobile",
+    "price": 27999,
+    "rating": 4.5,
+    "reviews": [
+      "Awesome display and speakers.",
+      "Looks premium and feels durable."
+    ],
+    "description": "A premium mid-range smartphone with Super AMOLED display.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Dimensity 1080",
+      "display": "6.6-inch AMOLED 120Hz"
+    },
+    "stock": 20,
+    "location": "Bangalore Warehouse",
+    "tags": ["amoled", "5g", "premium"]
+  },
+  {
+    "_id": "ph017",
+    "name": "OnePlus 11R",
+    "brand": "OnePlus",
+    "category": "Mobile",
+    "price": 39999,
+    "rating": 4.7,
+    "reviews": [
+      "Excellent performance for gaming.",
+      "Battery charges extremely fast."
+    ],
+    "description": "A flagship killer with top-end processor and fast charging.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Snapdragon 8+ Gen 1",
+      "display": "6.74-inch AMOLED 120Hz"
+    },
+    "stock": 14,
+    "location": "Mumbai Warehouse",
+    "tags": ["flagship-killer", "gaming", "fast-charging"]
+  },
+  {
+    "_id": "ph018",
+    "name": "iQOO Z7 5G",
+    "brand": "iQOO",
+    "category": "Mobile",
+    "price": 18999,
+    "rating": 4.4,
+    "reviews": [
+      "Strong performance with gaming.",
+      "Camera is impressive for the price."
+    ],
+    "description": "A performance-focused 5G smartphone ideal for gamers.",
+    "specifications": {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "4500 mAh",
+      "processor": "Dimensity 920",
+      "display": "6.38-inch AMOLED"
+    },
+    "stock": 25,
+    "location": "Chennai Warehouse",
+    "tags": ["gaming", "amoled", "5g"]
+  },
+  {
+    "_id": "ph019",
+    "name": "Realme 11 Pro",
+    "brand": "Realme",
+    "category": "Mobile",
+    "price": 23999,
+    "rating": 4.6,
+    "reviews": [
+      "Curved display looks premium.",
+      "Battery life is very good."
+    ],
+    "description": "A premium midrange curved-display smartphone with strong performance.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Dimensity 7050",
+      "display": "6.7-inch Curved AMOLED"
+    },
+    "stock": 16,
+    "location": "Delhi Warehouse",
+    "tags": ["curved-display", "premium", "amoled"]
+  },
+  {
+    "_id": "ph020",
+    "name": "Samsung Galaxy M34 5G",
+    "brand": "Samsung",
+    "category": "Mobile",
+    "price": 16999,
+    "rating": 4.5,
+    "reviews": [
+      "Massive battery backup.",
+      "AMOLED display is fantastic."
+    ],
+    "description": "A battery-centric 5G smartphone with smooth display and great performance.",
+    "specifications": {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "6000 mAh",
+      "processor": "Exynos 1280",
+      "display": "6.5-inch AMOLED 120Hz"
+    },
+    "stock": 32,
+    "location": "Chennai Warehouse",
+    "tags": ["battery", "amoled", "5g"]
+  },
+  {
+    "_id": "ph021",
+    "name": "Oppo Reno 10",
+    "brand": "Oppo",
+    "category": "Mobile",
+    "price": 32999,
+    "rating": 4.6,
+    "reviews": [
+      "Excellent portrait camera.",
+      "Charging speed is superb."
+    ],
+    "description": "A premium camera smartphone built for portrait photography lovers.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "battery": "4600 mAh",
+      "processor": "Snapdragon 778G",
+      "display": "6.7-inch AMOLED"
+    },
+    "stock": 18,
+    "location": "Hyderabad Warehouse",
+    "tags": ["portrait", "camera", "premium"]
+  },
+  {
+    "_id": "ph022",
+    "name": "Vivo V29",
+    "brand": "Vivo",
+    "category": "Mobile",
+    "price": 32999,
+    "rating": 4.7,
+    "reviews": [
+      "Best selfie camera in this segment.",
+      "Display quality is outstanding."
+    ],
+    "description": "A premium camera smartphone with studio-quality front and rear cameras.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4600 mAh",
+      "processor": "Snapdragon 778G",
+      "display": "6.78-inch AMOLED 120Hz"
+    },
+    "stock": 21,
+    "location": "Mumbai Warehouse",
+    "tags": ["camera", "selfie", "premium"]
+  },
+  {
+    "_id": "ph023",
+    "name": "Poco X5 Pro",
+    "brand": "Poco",
+    "category": "Mobile",
+    "price": 22999,
+    "rating": 4.6,
+    "reviews": [
+      "Excellent performance and smooth UI.",
+      "Camera performance is very good."
+    ],
+    "description": "A powerful midrange smartphone with great display and strong performance.",
+    "specifications": {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Snapdragon 778G",
+      "display": "6.67-inch AMOLED 120Hz"
+    },
+    "stock": 19,
+    "location": "Hyderabad Warehouse",
+    "tags": ["performance", "amoled", "gaming"]
+  },
+  {
+    "_id": "ph024",
+    "name": "Infinix Zero 5G",
+    "brand": "Infinix",
+    "category": "Mobile",
+    "price": 17999,
+    "rating": 4.3,
+    "reviews": [
+      "Good performance for gaming.",
+      "Battery drains slightly fast during heavy use."
+    ],
+    "description": "A performance-focused 5G phone with sleek design.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Dimensity 900",
+      "display": "6.78-inch FHD+"
+    },
+    "stock": 23,
+    "location": "Bangalore Warehouse",
+    "tags": ["gaming", "5g", "performance"]
+  },
+  {
+    "_id": "ph025",
+    "name": "iQOO Neo 7",
+    "brand": "iQOO",
+    "category": "Mobile",
+    "price": 28999,
+    "rating": 4.7,
+    "reviews": [
+      "Super fast processor.",
+      "Excellent for gaming lovers."
+    ],
+    "description": "A high-performance smartphone designed for heavy gaming and multitasking.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Dimensity 8200",
+      "display": "6.78-inch AMOLED 120Hz"
+    },
+    "stock": 17,
+    "location": "Delhi Warehouse",
+    "tags": ["gaming", "premium-performance", "amoled"]
+  },
+  {
+    "_id": "ph026",
+    "name": "OnePlus Nord 3",
+    "brand": "OnePlus",
+    "category": "Mobile",
+    "price": 33999,
+    "rating": 4.6,
+    "reviews": [
+      "Smooth UI and premium experience.",
+      "Camera is really sharp."
+    ],
+    "description": "A solid premium midrange smartphone with great performance.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Dimensity 9000",
+      "display": "6.74-inch AMOLED 120Hz"
+    },
+    "stock": 14,
+    "location": "Hyderabad Warehouse",
+    "tags": ["premium", "smooth-ui", "flagship-performance"]
+  },
+  {
+    "_id": "ph027",
+    "name": "Realme C53",
+    "brand": "Realme",
+    "category": "Mobile",
+    "price": 9999,
+    "rating": 4.1,
+    "reviews": [
+      "Great design at low price.",
+      "Battery backup is solid."
+    ],
+    "description": "A stylish entry-level phone suitable for basic tasks.",
+    "specifications": {
+      "ram": "4 GB",
+      "storage": "64 GB",
+      "battery": "5000 mAh",
+      "processor": "Unisoc T612",
+      "display": "6.74-inch HD+"
+    },
+    "stock": 44,
+    "location": "Kolkata Warehouse",
+    "tags": ["budget", "stylish", "basic-use"]
+  },
+  {
+    "_id": "ph028",
+    "name": "Moto Edge 40",
+    "brand": "Motorola",
+    "category": "Mobile",
+    "price": 15999,
+    "rating": 4.6,
+    "reviews": [
+      "Ultra-slim & premium design.",
+      "Display is extremely smooth."
+    ],
+    "description": "A powerful premium midrange phone with curved display.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4400 mAh",
+      "processor": "Dimensity 8020",
+      "display": "6.55-inch pOLED 144Hz"
+    },
+    "stock": 20,
+    "location": "Mumbai Warehouse",
+    "tags": ["curved-display", "premium", "smooth"]
+  },
+  {
+    "_id": "ph029",
+    "name": "Oppo A78",
+    "brand": "Oppo",
+    "category": "Mobile",
+    "price": 17999,
+    "rating": 4.3,
+    "reviews": [
+      "Great battery and charging speed.",
+      "Very lightweight and easy to handle."
+    ],
+    "description": "A lightweight 5G phone with strong battery and fast charging.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "5000 mAh",
+      "processor": "Snapdragon 680",
+      "display": "6.56-inch HD+"
+    },
+    "stock": 27,
+    "location": "Hyderabad Warehouse",
+    "tags": ["lightweight", "battery", "5g"]
+  },
+  {
+    "_id": "ph030",
+    "name": "Samsung Galaxy S21 FE 5G",
+    "brand": "Samsung",
+    "category": "Mobile",
+    "price": 44999,
+    "rating": 4.7,
+    "reviews": [
+      "Excellent all-rounder smartphone.",
+      "Camera and performance are top-notch."
+    ],
+    "description": "A flagship-level smartphone with balanced features and performance.",
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "battery": "4500 mAh",
+      "processor": "Exynos 2100",
+      "display": "6.4-inch AMOLED 120Hz"
+    },
+    "stock": 12,
+    "location": "Chennai Warehouse",
+    "tags": ["flagship", "5g", "all-rounder"]
+  }
+]

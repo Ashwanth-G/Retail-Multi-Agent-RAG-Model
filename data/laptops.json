@@ -1,0 +1,602 @@
+[
+	{
+		"_id": "lp001",
+		"name": "HP 15s Ryzen 5 Laptop",
+		"brand": "HP",
+		"category": "Laptop",
+		"price": 44999,
+		"rating": 4.3,
+		"reviews": [
+				"Fast boot time and smooth multitasking.",
+				"Display quality is decent for the price."
+		],
+		"description": "A powerful Ryzen 5 laptop suitable for students and office use.",
+		"specifications": {
+				"processor": "AMD Ryzen 5 5500U",
+				"ram": "8 GB",
+				"storage": "512 GB SSD",
+				"display": "15.6-inch FHD",
+				"graphics": "Integrated Radeon Graphics"
+		},
+		"stock": 19,
+		"location": "Mumbai Warehouse",
+		"tags": ["office", "student", "ssd"]
+	},
+	{
+		"_id": "lp002",
+		"name": "Dell Inspiron 3511",
+		"brand": "Dell",
+		"category": "Laptop",
+		"price": 48999,
+		"rating": 4.2,
+		"reviews": [
+				"Keyboard is very comfortable.",
+				"Slight heating during heavy use."
+		],
+		"description": "A reliable Intel-based laptop for productivity and entertainment.",
+		"specifications": {
+				"processor": "Intel i5 11th Gen",
+				"ram": "8 GB",
+				"storage": "512 GB SSD",
+				"display": "15.6-inch FHD",
+				"graphics": "Intel Iris Xe"
+		},
+		"stock": 14,
+		"location": "Chennai Warehouse",
+		"tags": ["productivity", "intel", "ssd"]
+	},
+	{
+		"_id": "lp003",
+		"name": "Lenovo IdeaPad Slim 3",
+		"brand": "Lenovo",
+		"category": "Laptop",
+		"price": 41999,
+		"rating": 4.1,
+		"reviews": [
+				"Lightweight and easy to carry.",
+				"Battery lasts around 5–6 hours."
+		],
+		"description": "A slim and portable laptop ideal for daily usage.",
+		"specifications": {
+				"processor": "Intel i3 12th Gen",
+				"ram": "8 GB",
+				"storage": "256 GB SSD",
+				"display": "15.6-inch FHD",
+				"graphics": "Intel UHD Graphics"
+		},
+		"stock": 27,
+		"location": "Delhi Warehouse",
+		"tags": ["lightweight", "portable", "budget"]
+	},
+	{
+		"_id": "lp004",
+		"name": "Acer Aspire 7 Gaming Laptop",
+		"brand": "Acer",
+		"category": "Laptop",
+		"price": 56999,
+		"rating": 4.4,
+		"reviews": [
+				"Great performance for gaming.",
+				"Battery drains quickly during heavy games."
+		],
+		"description": "A budget gaming laptop with dedicated graphics.",
+		"specifications": {
+				"processor": "Ryzen 5 5500U",
+				"ram": "8 GB",
+				"storage": "512 GB SSD",
+				"display": "15.6-inch FHD 144Hz",
+				"graphics": "NVIDIA GTX 1650"
+		},
+		"stock": 11,
+		"location": "Bangalore Warehouse",
+		"tags": ["gaming", "gtx1650", "144hz"]
+	},
+	{
+		"_id": "lp005",
+		"name": "Apple MacBook Air M1",
+		"brand": "Apple",
+		"category": "Laptop",
+		"price": 82999,
+		"rating": 4.9,
+		"reviews": [
+				"Battery lasts more than 15 hours.",
+				"Near-silent performance."
+		],
+		"description": "A premium lightweight laptop powered by the efficient M1 chip.",
+		"specifications": {
+				"processor": "Apple M1",
+				"ram": "8 GB",
+				"storage": "256 GB SSD",
+				"display": "13.3-inch Retina",
+				"graphics": "Integrated M1 GPU"
+		},
+		"stock": 7,
+		"location": "Hyderabad Warehouse",
+		"tags": ["premium", "apple", "lightweight"]
+	},
+	{
+		"_id": "lp006",
+		"name": "Asus VivoBook 15",
+		"brand": "Asus",
+		"category": "Laptop",
+		"price": 35999,
+		"rating": 4.0,
+		"reviews": ["Good build quality.", "Speakers could be louder."],
+		"description": "A budget-friendly laptop for light multitasking.",
+		"specifications": {
+				"processor": "Intel i3 11th Gen",
+				"ram": "8 GB",
+				"storage": "512 GB SSD",
+				"display": "15.6-inch FHD"
+		},
+		"stock": 33,
+		"location": "Chennai Warehouse",
+		"tags": ["budget", "lightweight"]
+	},
+	{
+		"_id": "lp007",
+		"name": "HP Pavilion Gaming Laptop",
+		"brand": "HP",
+		"category": "Laptop",
+		"price": 72999,
+		"rating": 4.4,
+		"reviews": ["Smooth performance.", "Fan gets loud during games."],
+		"description": "A powerful gaming laptop with dedicated graphics.",
+		"specifications": {
+				"processor": "Intel i5 12th Gen",
+				"ram": "16 GB",
+				"storage": "512 GB SSD",
+				"display": "15.6-inch FHD 144Hz",
+				"graphics": "NVIDIA RTX 3050"
+		},
+		"stock": 8,
+		"location": "Pune Warehouse",
+		"tags": ["gaming", "rtx3050"]
+	},
+	{
+		"_id": "lp008",
+		"name": "Dell Vostro 3420",
+		"brand": "Dell",
+		"category": "Laptop",
+		"price": 38999,
+		"rating": 4.1,
+		"reviews": ["Sturdy build.", "Performance is smooth."],
+		"description": "An efficient laptop for office users.",
+		"specifications": {
+		"processor": "i3 12th Gen",
+		"ram": "8 GB",
+		"storage": "256 GB SSD",
+		"display": "14-inch FHD"
+		},
+		"stock": 25,
+		"location": "Delhi Warehouse",
+		"tags": ["office", "compact"]
+	},
+	{
+		"_id": "lp009",
+		"name": "Lenovo ThinkPad E14",
+		"brand": "Lenovo",
+		"category": "Laptop",
+		"price": 58999,
+		"rating": 4.5,
+		"reviews": ["Keyboard is excellent.", "Very reliable."],
+		"description": "A classic business laptop with durable build.",
+		"specifications": {
+		"processor": "Ryzen 5 5500U",
+		"ram": "8 GB",
+		"storage": "512 GB SSD",
+		"display": "14-inch FHD"
+		},
+		"stock": 12,
+		"location": "Mumbai Warehouse",
+		"tags": ["business", "thinkpad"]
+	},
+	{
+		"_id": "lp010",
+		"name": "Acer Swift Go OLED",
+		"brand": "Acer",
+		"category": "Laptop",
+		"price": 67999,
+		"rating": 4.6,
+		"reviews": ["OLED screen is gorgeous.", "Very lightweight."],
+		"description": "A stylish ultrabook with OLED display.",
+		"specifications": {
+		"processor": "i5 13th Gen",
+		"ram": "16 GB",
+		"storage": "512 GB SSD",
+		"display": "14-inch OLED"
+		},
+		"stock": 10,
+		"location": "Bangalore Warehouse",
+		"tags": ["ultrabook", "oled"]
+	},
+	{
+		"_id": "lp011",
+		"name": "MSI Modern 14",
+		"brand": "MSI",
+		"category": "Laptop",
+		"price": 54999,
+		"rating": 4.2,
+		"reviews": ["Great display.", "Smooth performance."],
+		"description": "A productivity laptop with premium design.",
+		"specifications": {
+		"processor": "Ryzen 7 5700U",
+		"ram": "16 GB",
+		"storage": "512 GB SSD",
+		"display": "14-inch FHD"
+		},
+		"stock": 9,
+		"location": "Hyderabad Warehouse",
+		"tags": ["premium", "productivity"]
+	},
+	{
+		"_id": "lp012",
+		"name": "Apple MacBook Air M2",
+		"brand": "Apple",
+		"category": "Laptop",
+		"price": 98999,
+		"rating": 4.9,
+		"reviews": ["Ultra lightweight.", "Battery life is superb."],
+		"description": "Latest MacBook Air with M2 chip.",
+		"specifications": {
+		"processor": "Apple M2",
+		"ram": "8 GB",
+		"storage": "256 GB SSD",
+		"display": "13.6-inch Retina"
+		},
+		"stock": 6,
+		"location": "Mumbai Warehouse",
+		"tags": ["premium", "m2"]
+	},
+	{
+		"_id": "lp013",
+		"name": "Samsung Galaxy Book2",
+		"brand": "Samsung",
+		"category": "Laptop",
+		"price": 58999,
+		"rating": 4.3,
+		"reviews": ["Very sleek build.", "Battery life is good."],
+		"description": "A lightweight Intel-based ultrabook.",
+		"specifications": {
+		"processor": "i5 12th Gen",
+		"ram": "8 GB",
+		"storage": "512 GB SSD",
+		"display": "15.6-inch FHD"
+		},
+		"stock": 13,
+		"location": "Kolkata Warehouse",
+		"tags": ["ultrabook", "sleek"]
+	},
+	{
+		"_id": "lp014",
+		"name": "Asus TUF Gaming A15",
+		"brand": "Asus",
+		"category": "Laptop",
+		"price": 94999,
+		"rating": 4.7,
+		"reviews": ["Excellent for gaming.", "Very durable build."],
+		"description": "A high-performance gaming laptop.",
+		"specifications": {
+		"processor": "Ryzen 7 6800H",
+		"ram": "16 GB",
+		"storage": "1 TB SSD",
+		"display": "15.6-inch 144Hz",
+		"graphics": "NVIDIA RTX 3060"
+		},
+		"stock": 5,
+		"location": "Chennai Warehouse",
+		"tags": ["gaming", "rtx3060"]
+	},
+
+	{
+		"_id": "lp015",
+		"name": "LG Gram 16",
+		"brand": "LG",
+		"category": "Laptop",
+		"price": 109999,
+		"rating": 4.8,
+		"reviews": ["Extremely lightweight.", "Huge battery life."],
+		"description": "Ultra-light productivity laptop.",
+		"specifications": {
+		"processor": "i7 12th Gen",
+		"ram": "16 GB",
+		"storage": "512 GB SSD",
+		"display": "16-inch WQXGA"
+		},
+		"stock": 4,
+		"location": "Bangalore Warehouse",
+		"tags": ["ultralight", "premium"]
+	},
+
+	{
+		"_id": "lp016",
+		"name": "Acer Predator Helios 300",
+		"brand": "Acer",
+		"category": "Laptop",
+		"price": 124999,
+		"rating": 4.6,
+		"reviews": ["Top-class gaming.", "RGB keyboard is great."],
+		"description": "An advanced gaming laptop with RTX graphics.",
+		"specifications": {
+		"processor": "i7 12th Gen",
+		"ram": "16 GB",
+		"storage": "1 TB SSD",
+		"display": "15.6-inch 165Hz",
+		"graphics": "RTX 3070"
+		},
+		"stock": 3,
+		"location": "Hyderabad Warehouse",
+		"tags": ["gaming", "rtx3070"]
+	},
+	{
+		"_id": "lp017",
+		"name": "HP Chromebook x360",
+		"brand": "HP",
+		"category": "Laptop",
+		"price": 29999,
+		"rating": 4.0,
+		"reviews": ["Good for students.", "Very light."],
+		"description": "A 2-in-1 touchscreen Chromebook.",
+		"specifications": {
+		"processor": "Intel Celeron",
+		"ram": "4 GB",
+		"storage": "64 GB eMMC",
+		"display": "14-inch Touchscreen"
+		},
+		"stock": 36,
+		"location": "Delhi Warehouse",
+		"tags": ["student", "touchscreen"]
+	},
+	{
+		"_id": "lp018",
+		"name": "Lenovo Yoga Slim 7",
+		"brand": "Lenovo",
+		"category": "Laptop",
+		"price": 84999,
+		"rating": 4.7,
+		"reviews": ["Excellent build.", "Great performance."],
+		"description": "A premium ultrabook with long battery life.",
+		"specifications": {
+		"processor": "Ryzen 7 5800U",
+		"ram": "16 GB",
+		"storage": "512 GB SSD",
+		"display": "14-inch FHD"
+		},
+		"stock": 7,
+		"location": "Mumbai Warehouse",
+		"tags": ["premium", "ultrabook"]
+	},
+	{
+		"_id": "lp019",
+		"name": "Asus ROG Strix G15",
+		"brand": "Asus",
+		"category": "Laptop",
+		"price": 119999,
+		"rating": 4.7,
+		"reviews": ["Performance is amazing for AAA games.", "Thermals are well-managed."],
+		"description": "A top-tier gaming laptop with powerful hardware.",
+		"specifications": {
+				"processor": "Ryzen 9 5900HX",
+				"ram": "16 GB",
+				"storage": "1 TB SSD",
+				"display": "15.6-inch FHD 300Hz",
+				"graphics": "RTX 3070"
+		},
+		"stock": 4,
+		"location": "Bangalore Warehouse",
+		"tags": ["gaming", "high-end", "rtx3070"]
+	},
+	{
+		"_id": "lp020",
+		"name": "Dell XPS 13",
+		"brand": "Dell",
+		"category": "Laptop",
+		"price": 114999,
+		"rating": 4.8,
+		"reviews": ["Superb display.", "Premium design and lightweight."],
+		"description": "A premium compact ultrabook built with top-notch materials.",
+		"specifications": {
+				"processor": "i7 12th Gen",
+				"ram": "16 GB",
+				"storage": "512 GB SSD",
+				"display": "13.4-inch FHD+",
+				"graphics": "Intel Iris Xe"
+		},
+		"stock": 5,
+		"location": "Delhi Warehouse",
+		"tags": ["premium", "ultrabook", "compact"]
+	},
+	{
+		"_id": "lp021",
+		"name": "HP Omen 16",
+		"brand": "HP",
+		"category": "Laptop",
+		"price": 139999,
+		"rating": 4.7,
+		"reviews": ["Solid gaming performance.", "Top-tier build quality."],
+		"description": "A premium gaming laptop with advanced cooling and RTX graphics.",
+		"specifications": {
+				"processor": "i7 13th Gen",
+				"ram": "16 GB",
+				"storage": "1 TB SSD",
+				"display": "16.1-inch QHD 165Hz",
+				"graphics": "RTX 3070 Ti"
+		},
+		"stock": 3,
+		"location": "Mumbai Warehouse",
+		"tags": ["gaming", "rtx3070ti", "high-end"]
+	},
+	{
+		"_id": "lp022",
+		"name": "Acer Extensa 15",
+		"brand": "Acer",
+		"category": "Laptop",
+		"price": 28999,
+		"rating": 3.9,
+		"reviews": ["Good for basic tasks.", "Battery is average."],
+		"description": "A budget laptop suited for browsing and office work.",
+		"specifications": {
+				"processor": "Intel Pentium Silver",
+				"ram": "4 GB",
+				"storage": "256 GB SSD",
+				"display": "15.6-inch HD"
+		},
+		"stock": 42,
+		"location": "Hyderabad Warehouse",
+		"tags": ["budget", "basic"]
+	},
+	{
+		"_id": "lp023",
+		"name": "Samsung Galaxy Book3 Pro",
+		"brand": "Samsung",
+		"category": "Laptop",
+		"price": 139999,
+		"rating": 4.8,
+		"reviews": ["Stunning AMOLED display.", "Super lightweight."],
+		"description": "A premium workstation-grade ultrabook with AMOLED.",
+		"specifications": {
+				"processor": "i7 13th Gen",
+				"ram": "16 GB",
+				"storage": "512 GB SSD",
+				"display": "16-inch AMOLED"
+		},
+		"stock": 4,
+		"location": "Kolkata Warehouse",
+		"tags": ["premium", "amoled", "ultrabook"]
+	},
+	{
+		"_id": "lp024",
+		"name": "Lenovo Legion 5",
+		"brand": "Lenovo",
+		"category": "Laptop",
+		"price": 109999,
+		"rating": 4.6,
+		"reviews": ["Very powerful.", "RGB lighting looks nice."],
+		"description": "A highly reliable gaming laptop with strong thermals.",
+		"specifications": {
+				"processor": "Ryzen 7 5800H",
+				"ram": "16 GB",
+				"storage": "512 GB SSD",
+				"display": "15.6-inch 165Hz",
+				"graphics": "RTX 3060"
+		},
+		"stock": 6,
+		"location": "Pune Warehouse",
+		"tags": ["gaming", "rtx3060"]
+	},
+	{
+		"_id": "lp025",
+		"name": "Microsoft Surface Laptop 5",
+		"brand": "Microsoft",
+		"category": "Laptop",
+		"price": 125999,
+		"rating": 4.7,
+		"reviews": ["Touchscreen is amazing.", "Very premium feel."],
+		"description": "A lightweight touch-enabled laptop for creators.",
+		"specifications": {
+				"processor": "i5 12th Gen",
+				"ram": "8 GB",
+				"storage": "512 GB SSD",
+				"display": "13.5-inch Touch"
+		},
+		"stock": 5,
+		"location": "Delhi Warehouse",
+		"tags": ["touchscreen", "premium", "creator"]
+	},
+	{
+		"_id": "lp026",
+		"name": "Infinix INBook X2 Plus",
+		"brand": "Infinix",
+		"category": "Laptop",
+		"price": 32999,
+		"rating": 4.1,
+		"reviews": ["Value for money.", "Good battery backup."],
+		"description": "A budget laptop with good performance for daily use.",
+		"specifications": {
+				"processor": "i3 11th Gen",
+				"ram": "8 GB",
+				"storage": "512 GB SSD",
+				"display": "15.6-inch FHD"
+		},
+		"stock": 29,
+		"location": "Chennai Warehouse",
+		"tags": ["budget", "value"]
+	},
+	{
+		"_id": "lp027",
+		"name": "Realme Book Slim",
+		"brand": "Realme",
+		"category": "Laptop",
+		"price": 45999,
+		"rating": 4.2,
+		"reviews": ["Looks premium.", "Good for students."],
+		"description": "A slim and stylish ultrabook for productivity users.",
+		"specifications": {
+				"processor": "i3 11th Gen",
+				"ram": "8 GB",
+				"storage": "256 GB SSD",
+				"display": "14-inch 2K"
+		},
+		"stock": 21,
+		"location": "Mumbai Warehouse",
+		"tags": ["student", "ultrabook", "2k"]
+	},
+	{
+		"_id": "lp028",
+		"name": "Asus ZenBook 14 OLED",
+		"brand": "Asus",
+		"category": "Laptop",
+		"price": 94999,
+		"rating": 4.8,
+		"reviews": ["OLED panel is crisp.", "Very portable."],
+		"description": "A stylish OLED ultrabook with excellent battery life.",
+		"specifications": {
+				"processor": "Ryzen 7 6800U",
+				"ram": "16 GB",
+				"storage": "512 GB SSD",
+				"display": "14-inch OLED"
+		},
+		"stock": 6,
+		"location": "Hyderabad Warehouse",
+		"tags": ["oled", "premium"]
+	},
+	{
+		"_id": "lp029",
+		"name": "HP Victus Gaming Laptop",
+		"brand": "HP",
+		"category": "Laptop",
+		"price": 87999,
+		"rating": 4.5,
+		"reviews": ["Fantastic value for gaming.", "Runs cool."],
+		"description": "A mid-range gaming laptop with excellent performance.",
+		"specifications": {
+				"processor": "i5 12th Gen",
+				"ram": "16 GB",
+				"storage": "512 GB SSD",
+				"display": "15.6-inch 144Hz",
+				"graphics": "RTX 3050"
+		},
+		"stock": 9,
+		"location": "Kolkata Warehouse",
+		"tags": ["gaming", "rtx3050"]
+	},
+	{
+		"_id": "lp030",
+		"name": "Dell Latitude 5430",
+		"brand": "Dell",
+		"category": "Laptop",
+		"price": 99999,
+		"rating": 4.6,
+		"reviews": ["Super reliable for work.", "Excellent keyboard."],
+		"description": "A business-class laptop built for productivity and durability.",
+		"specifications": {
+				"processor": "i7 12th Gen",
+				"ram": "16 GB",
+				"storage": "512 GB SSD",
+				"display": "14-inch FHD"
+		},
+		"stock": 7,
+		"location": "Pune Warehouse",
+		"tags": ["business", "durable"]
+	}
+]

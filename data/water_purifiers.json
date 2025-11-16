@@ -1,0 +1,462 @@
+[
+  {
+    "_id": "pu001",
+    "name": "AquaFresh 10 L RO + UV Water Purifier",
+    "brand": "AquaFresh",
+    "category": "Water Purifier",
+    "price": 12999,
+    "rating": 4.4,
+    "reviews": [
+      "Purifies water very well, taste is much better.",
+      "Filter replacement is easy and affordable."
+    ],
+    "description": "A 10-litre RO + UV water purifier suitable for homes with hard water.",
+    "specifications": {
+      "capacity": "10 L",
+      "purification_technology": "RO + UV + UF",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "1 Year"
+    },
+    "stock": 18,
+    "location": "Delhi Warehouse",
+    "tags": ["RO", "UV", "hard-water"]
+  },
+  {
+    "_id": "pu002",
+    "name": "PureFlow 7 L UV Water Purifier",
+    "brand": "PureFlow",
+    "category": "Water Purifier",
+    "price": 6999,
+    "rating": 4.1,
+    "reviews": [
+      "Good capacity for daily use.",
+      "UV kills bacteria quickly, and water tastes fresh."
+    ],
+    "description": "A 7-litre UV-only water purifier designed for use in areas with safe TDS but microbial contamination.",
+    "specifications": {
+      "capacity": "7 L",
+      "purification_technology": "UV",
+      "storage_type": "Tank",
+      "filter_life": "24 months",
+      "warranty": "1 Year"
+    },
+    "stock": 22,
+    "location": "Chennai Warehouse",
+    "tags": ["UV", "tank", "budget"]
+  },
+  {
+    "_id": "pu003",
+    "name": "EcoPure 8 L Gravity Based UF Purifier",
+    "brand": "EcoPure",
+    "category": "Water Purifier",
+    "price": 4999,
+    "rating": 4.0,
+    "reviews": [
+      "No electricity required, very practical.",
+      "UF filter lasts long and cleans well."
+    ],
+    "description": "An 8-litre gravity-based UF water purifier designed for rural or low-electricity areas.",
+    "specifications": {
+      "capacity": "8 L",
+      "purification_technology": "UF",
+      "storage_type": "Gravity Tank",
+      "filter_life": "18 months",
+      "warranty": "6 Months"
+    },
+    "stock": 25,
+    "location": "Bangalore Warehouse",
+    "tags": ["uf", "no-electricity", "portable"]
+  },
+  {
+    "_id": "pu004",
+    "name": "SmartHydro 10 L RO + UV + TDS Modulator Purifier",
+    "brand": "SmartHydro",
+    "category": "Water Purifier",
+    "price": 14999,
+    "rating": 4.5,
+    "reviews": [
+      "Very smart TDS control, water tastes better.",
+      "Good build and reliable performance."
+    ],
+    "description": "A 10-litre RO + UV water purifier with adjustable TDS control for healthier drinking water.",
+    "specifications": {
+      "capacity": "10 L",
+      "purification_technology": "RO + UV + TDS Controller",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "2 Years"
+    },
+    "stock": 12,
+    "location": "Mumbai Warehouse",
+    "tags": ["advanced-ro", "tds-control", "smart"]
+  },
+  {
+    "_id": "pu005",
+    "name": "H2OShield 14 L Mineral RO + UV Purifier",
+    "brand": "H2OShield",
+    "category": "Water Purifier",
+    "price": 16999,
+    "rating": 4.6,
+    "reviews": [
+      "Large capacity and very good mineral retention.",
+      "Ideal for families with higher consumption."
+    ],
+    "description": "A 14-litre RO + UV water purifier with mineral technology for everyday family use.",
+    "specifications": {
+      "capacity": "14 L",
+      "purification_technology": "RO + UV + Mineral Cartridge",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "1 Year"
+    },
+    "stock": 10,
+    "location": "Pune Warehouse",
+    "tags": ["high-capacity", "mineral-ro", "family"]
+  },
+  {
+    "_id": "pu006",
+    "name": "ClearWave 9 L UF + Activated Carbon Purifier",
+    "brand": "ClearWave",
+    "category": "Water Purifier",
+    "price": 8999,
+    "rating": 4.2,
+    "reviews": [
+      "Removes bad taste and odor effectively.",
+      "Good capacity and filter is cheap to replace."
+    ],
+    "description": "A 9-litre water purifier combining UF and activated carbon for taste and micro-purification.",
+    "specifications": {
+      "capacity": "9 L",
+      "purification_technology": "UF + Activated Carbon",
+      "storage_type": "Tank",
+      "filter_life": "18 months",
+      "warranty": "1 Year"
+    },
+    "stock": 14,
+    "location": "Hyderabad Warehouse",
+    "tags": ["uf", "carbon-filter", "good-taste"]
+  },
+  {
+    "_id": "pu007",
+    "name": "AquaGuard Magna 7 L RO Purifier",
+    "brand": "AquaGuard",
+    "category": "Water Purifier",
+    "price": 12499,
+    "rating": 4.4,
+    "reviews": [
+      "Very reliable brand, water tastes very clean.",
+      "Design is compact and work is excellent."
+    ],
+    "description": "A compact 7-litre RO-only purifier ideal for daily drinking water purification.",
+    "specifications": {
+      "capacity": "7 L",
+      "purification_technology": "RO",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "1 Year"
+    },
+    "stock": 16,
+    "location": "Chennai Warehouse",
+    "tags": ["ro", "compact", "trusted-brand"]
+  },
+  {
+    "_id": "pu008",
+    "name": "Kent Maxx 8 L RO + UV + UF Water Purifier",
+    "brand": "Kent",
+    "category": "Water Purifier",
+    "price": 13499,
+    "rating": 4.3,
+    "reviews": [
+      "Kills almost all germs and filters well.",
+      "Good for city water supply."
+    ],
+    "description": "An 8-litre multi-stage purifier combining RO, UV, and UF technologies for robust purification.",
+    "specifications": {
+      "capacity": "8 L",
+      "purification_technology": "RO + UV + UF",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "1 Year"
+    },
+    "stock": 12,
+    "location": "Delhi Warehouse",
+    "tags": ["multi-stage", "ro-uv-uf", "robust"]
+  },
+  {
+    "_id": "pu009",
+    "name": "Livpure Smart+ 10 L RO + UV + UF Purifier",
+    "brand": "Livpure",
+    "category": "Water Purifier",
+    "price": 15999,
+    "rating": 4.5,
+    "reviews": [
+      "Smart LED indicator is helpful.",
+      "Very efficient purification."
+    ],
+    "description": "A 10-litre smart purifier with LED alerts and RO + UV + UF filtration technology.",
+    "specifications": {
+      "capacity": "10 L",
+      "purification_technology": "RO + UV + UF",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "2 Years"
+    },
+    "stock": 9,
+    "location": "Mumbai Warehouse",
+    "tags": ["smart", "multi-stage", "led-indicator"]
+  },
+  {
+    "_id": "pu010",
+    "name": "BluePure 7 L Alkaline Water Purifier",
+    "brand": "BluePure",
+    "category": "Water Purifier",
+    "price": 17999,
+    "rating": 4.6,
+    "reviews": [
+      "Alkaline taste is very pleasant.",
+      "Feels very premium and safe."
+    ],
+    "description": "A 7-litre water purifier that adds essential minerals to produce alkaline drinking water.",
+    "specifications": {
+      "capacity": "7 L",
+      "purification_technology": "RO + Alkaline Cartridge",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "1 Year"
+    },
+    "stock": 8,
+    "location": "Bangalore Warehouse",
+    "tags": ["alkaline", "premium", "mineral-water"]
+  },
+  {
+    "_id": "pu011",
+    "name": "HydroSafe 12 L RO + UV Water Purifier",
+    "brand": "HydroSafe",
+    "category": "Water Purifier",
+    "price": 13999,
+    "rating": 4.4,
+    "reviews": [
+      "Large capacity and effective purification.",
+      "Great for families with high water usage."
+    ],
+    "description": "A 12-litre RO + UV water purifier designed for larger families and higher water consumption.",
+    "specifications": {
+      "capacity": "12 L",
+      "purification_technology": "RO + UV",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "1 Year"
+    },
+    "stock": 11,
+    "location": "Pune Warehouse",
+    "tags": ["high-capacity", "ro-uv", "family"]
+  },
+  {
+    "_id": "pu012",
+    "name": "PureDrop 6 L Gravity Based Water Purifier",
+    "brand": "PureDrop",
+    "category": "Water Purifier",
+    "price": 3999,
+    "rating": 4.0,
+    "reviews": [
+      "Simple and effective for daily use.",
+      "No electricity needed, very convenient."
+    ],
+    "description": "A 6-litre gravity-based water purifier ideal for areas with low TDS and no electricity.",
+    "specifications": {
+      "capacity": "6 L",
+      "purification_technology": "Gravity Filtration",
+      "storage_type": "Gravity Tank",
+      "filter_life": "12 months",
+      "warranty": "6 Months"
+    },
+    "stock": 30,
+    "location": "Hyderabad Warehouse",
+    "tags": ["gravity", "no-electricity", "budget"]
+  },
+  {
+    "_id": "pu013",
+    "name": "AquaTech 9 L RO + UV + Mineral Water Purifier",
+    "brand": "AquaTech",
+    "category": "Water Purifier",
+    "price": 15999,
+    "rating": 4.5,
+    "reviews": [
+      "Excellent taste and mineral retention.",
+      "Perfect for daily family use."
+    ],
+    "description": "A 9-litre RO + UV water purifier with mineral cartridge for enhanced taste and health benefits.",
+    "specifications": {
+      "capacity": "9 L",
+      "purification_technology": "RO + UV + Mineral Cartridge",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "1 Year"
+    },
+    "stock": 15,
+    "location": "Delhi Warehouse",
+    "tags": ["mineral-ro", "family", "healthy"]
+  },
+  {
+    "_id": "pu014",
+    "name": "ClearWater 8 L UV + Activated Carbon Purifier",
+    "brand": "ClearWater",
+    "category": "Water Purifier",
+    "price": 7999,
+    "rating": 4.2,
+    "reviews": [
+      "Improves taste and removes odor effectively.",
+      "Affordable and efficient for daily use."
+    ],
+    "description": "An 8-litre water purifier combining UV and activated carbon for effective purification and taste enhancement.",
+    "specifications": {
+      "capacity": "8 L",
+      "purification_technology": "UV + Activated Carbon",
+      "storage_type": "Tank",
+      "filter_life": "18 months",
+      "warranty": "1 Year"
+    },
+    "stock": 20,
+    "location": "Chennai Warehouse",
+    "tags": ["uv", "carbon-filter", "good-taste"]
+  },
+  {
+    "_id": "pu015",
+    "name": "SafeSip 11 L RO + UV + UF Water Purifier",
+    "brand": "SafeSip",
+    "category": "Water Purifier",
+    "price": 14999,
+    "rating": 4.5,
+    "reviews": [
+      "Comprehensive purification, very satisfied.",
+      "Good for areas with mixed water quality."
+    ],
+    "description": "An 11-litre multi-stage water purifier with RO, UV, and UF technologies for thorough purification.",
+    "specifications": {
+      "capacity": "11 L",
+      "purification_technology": "RO + UV + UF",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "2 Years"
+    },
+    "stock": 13,
+    "location": "Mumbai Warehouse",
+    "tags": ["multi-stage", "ro-uv-uf", "comprehensive"]
+  },
+  {
+    "_id": "pu016",
+    "name": "FreshFlow 10 L Alkaline RO Water Purifier",
+    "brand": "FreshFlow",
+    "category": "Water Purifier",
+    "price": 17999,
+    "rating": 4.6,
+    "reviews": [
+      "Alkaline water tastes great and feels healthy.",
+      "High-quality build and efficient filtration."
+    ],
+    "description": "A 10-litre RO water purifier that enhances water with essential minerals to produce alkaline drinking water.",
+    "specifications": {
+      "capacity": "10 L",
+      "purification_technology": "RO + Alkaline Cartridge",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "1 Year"
+    },
+    "stock": 7,
+    "location": "Bangalore Warehouse",
+    "tags": ["alkaline", "ro", "healthy-water"]
+  },
+  {
+    "_id": "pu017",
+    "name": "WaterPure 9 L RO + UV + TDS Controller Purifier",
+    "brand": "WaterPure",
+    "category": "Water Purifier",
+    "price": 15499,
+    "rating": 4.5,
+    "reviews": [
+      "TDS controller works perfectly, water tastes great.",
+      "Reliable performance and easy maintenance."
+    ],
+    "description": "A 9-litre RO + UV water purifier with TDS control for optimal drinking water quality.",
+    "specifications": {
+      "capacity": "9 L",
+      "purification_technology": "RO + UV + TDS Controller",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "2 Years"
+    },
+    "stock": 10,
+    "location": "Pune Warehouse",
+    "tags": ["tds-control", "ro-uv", "optimal"]
+  },
+  {
+    "_id": "pu018",
+    "name": "CrystalClear 6 L Gravity Based UF Purifier",
+    "brand": "CrystalClear",
+    "category": "Water Purifier",
+    "price": 4599,
+    "rating": 4.1,
+    "reviews": [
+      "Very practical for areas with no electricity.",
+      "UF filter does a good job of cleaning water."
+    ],
+    "description": "A 6-litre gravity-based UF water purifier ideal for rural areas or places with unreliable electricity.",
+    "specifications": {
+      "capacity": "6 L",
+      "purification_technology": "UF",
+      "storage_type": "Gravity Tank",
+      "filter_life": "18 months",
+      "warranty": "6 Months"
+    },
+    "stock": 28,
+    "location": "Hyderabad Warehouse",
+    "tags": ["uf", "no-electricity", "portable"]
+  },
+  {
+    "_id": "pu019",
+    "name": "AquaMax 12 L RO + UV + Mineral Water Purifier",
+    "brand": "AquaMax",
+    "category": "Water Purifier",
+    "price": 16999,
+    "rating": 4.5,
+    "reviews": [
+      "Great for family use, water tastes excellent.",
+      "Mineral cartridge adds a nice touch."
+    ],
+    "description": "A 12-litre RO + UV water purifier with mineral cartridge for enhanced taste and health benefits.",
+    "specifications": {
+      "capacity": "12 L",
+      "purification_technology": "RO + UV + Mineral Cartridge",
+      "storage_type": "Tank",
+      "filter_life": "12 months",
+      "warranty": "1 Year"
+    },
+    "stock": 9,
+    "location": "Delhi Warehouse",
+    "tags": ["mineral-ro", "family", "healthy"]
+  },
+  {
+    "_id": "pu020",
+    "name": "PureLife 8 L UV + Activated Carbon Water Purifier",
+    "brand": "PureLife",
+    "category": "Water Purifier",
+    "price": 8499,
+    "rating": 4.2,
+    "reviews": [
+      "Effectively removes bad taste and odor.",
+      "Affordable and efficient for everyday use."
+    ],
+    "description": "An 8-litre water purifier combining UV and activated carbon for effective purification and taste enhancement.",
+    "specifications": {
+      "capacity": "8 L",
+      "purification_technology": "UV + Activated Carbon",
+      "storage_type": "Tank",
+      "filter_life": "18 months",
+      "warranty": "1 Year"
+    },
+    "stock": 18,
+    "location": "Chennai Warehouse",
+    "tags": ["uv", "carbon-filter", "good-taste"]
+  }
+]
